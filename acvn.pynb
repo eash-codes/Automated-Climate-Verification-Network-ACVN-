@@ -2,13 +2,13 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "259b03db",
+   "id": "398cd66f",
    "metadata": {
     "papermill": {
-     "duration": 0.006449,
-     "end_time": "2025-12-01T17:47:48.042839",
+     "duration": 0.007492,
+     "end_time": "2025-12-01T18:10:22.285665",
      "exception": false,
-     "start_time": "2025-12-01T17:47:48.036390",
+     "start_time": "2025-12-01T18:10:22.278173",
      "status": "completed"
     },
     "tags": []
@@ -73,13 +73,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "8dd4eb1e",
+   "id": "e76283d8",
    "metadata": {
     "papermill": {
-     "duration": 0.004579,
-     "end_time": "2025-12-01T17:47:48.052647",
+     "duration": 0.005935,
+     "end_time": "2025-12-01T18:10:22.297692",
      "exception": false,
-     "start_time": "2025-12-01T17:47:48.048068",
+     "start_time": "2025-12-01T18:10:22.291757",
      "status": "completed"
     },
     "tags": []
@@ -137,13 +137,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "75268576",
+   "id": "e08b0874",
    "metadata": {
     "papermill": {
-     "duration": 0.00421,
-     "end_time": "2025-12-01T17:47:48.061082",
+     "duration": 0.005724,
+     "end_time": "2025-12-01T18:10:22.309214",
      "exception": false,
-     "start_time": "2025-12-01T17:47:48.056872",
+     "start_time": "2025-12-01T18:10:22.303490",
      "status": "completed"
     },
     "tags": []
@@ -170,13 +170,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "a349b668",
+   "id": "93a01b1c",
    "metadata": {
     "papermill": {
-     "duration": 0.005832,
-     "end_time": "2025-12-01T17:47:48.072084",
+     "duration": 0.005698,
+     "end_time": "2025-12-01T18:10:22.320799",
      "exception": false,
-     "start_time": "2025-12-01T17:47:48.066252",
+     "start_time": "2025-12-01T18:10:22.315101",
      "status": "completed"
     },
     "tags": []
@@ -197,19 +197,19 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "89123918",
+   "id": "35a9025d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-12-01T17:47:48.083632Z",
-     "iopub.status.busy": "2025-12-01T17:47:48.083369Z",
-     "iopub.status.idle": "2025-12-01T17:47:54.050984Z",
-     "shell.execute_reply": "2025-12-01T17:47:54.050175Z"
+     "iopub.execute_input": "2025-12-01T18:10:22.333704Z",
+     "iopub.status.busy": "2025-12-01T18:10:22.333381Z",
+     "iopub.status.idle": "2025-12-01T18:10:27.762557Z",
+     "shell.execute_reply": "2025-12-01T18:10:27.761430Z"
     },
     "papermill": {
-     "duration": 5.975673,
-     "end_time": "2025-12-01T17:47:54.052136",
+     "duration": 5.437486,
+     "end_time": "2025-12-01T18:10:27.763990",
      "exception": false,
-     "start_time": "2025-12-01T17:47:48.076463",
+     "start_time": "2025-12-01T18:10:22.326504",
      "status": "completed"
     },
     "tags": []
@@ -246,13 +246,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "eda9dd00",
+   "id": "b86f1136",
    "metadata": {
     "papermill": {
-     "duration": 0.004364,
-     "end_time": "2025-12-01T17:47:54.061231",
+     "duration": 0.00615,
+     "end_time": "2025-12-01T18:10:27.776671",
      "exception": false,
-     "start_time": "2025-12-01T17:47:54.056867",
+     "start_time": "2025-12-01T18:10:27.770521",
      "status": "completed"
     },
     "tags": []
@@ -275,19 +275,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "397d4954",
+   "id": "71ce194c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-12-01T17:47:54.071051Z",
-     "iopub.status.busy": "2025-12-01T17:47:54.070793Z",
-     "iopub.status.idle": "2025-12-01T17:48:04.973371Z",
-     "shell.execute_reply": "2025-12-01T17:48:04.972408Z"
+     "iopub.execute_input": "2025-12-01T18:10:27.791498Z",
+     "iopub.status.busy": "2025-12-01T18:10:27.791158Z",
+     "iopub.status.idle": "2025-12-01T18:10:44.376536Z",
+     "shell.execute_reply": "2025-12-01T18:10:44.375319Z"
     },
     "papermill": {
-     "duration": 10.909187,
-     "end_time": "2025-12-01T17:48:04.974762",
+     "duration": 16.594656,
+     "end_time": "2025-12-01T18:10:44.378238",
      "exception": false,
-     "start_time": "2025-12-01T17:47:54.065575",
+     "start_time": "2025-12-01T18:10:27.783582",
      "status": "completed"
     },
     "tags": []
@@ -297,9 +297,9 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "\u001b[2K   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m2.0/2.0 MB\u001b[0m \u001b[31m21.9 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n",
+      "\u001b[2K   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m2.0/2.0 MB\u001b[0m \u001b[31m25.3 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n",
       "\u001b[?25hreport lab is isntalled\n",
-      "\u001b[2K   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m319.9/319.9 kB\u001b[0m \u001b[31m5.8 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n",
+      "\u001b[2K   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m319.9/319.9 kB\u001b[0m \u001b[31m6.5 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n",
       "\u001b[?25h\u001b[31mERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\r\n",
       "bigframes 2.12.0 requires google-cloud-bigquery-storage<3.0.0,>=2.30.0, which is not installed.\r\n",
       "google-cloud-translate 3.12.1 requires protobuf!=3.20.0,!=3.20.1,!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<5.0.0dev,>=3.19.5, but you have protobuf 5.29.5 which is incompatible.\r\n",
@@ -337,13 +337,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "b35849b5",
+   "id": "44c8f09a",
    "metadata": {
     "papermill": {
-     "duration": 0.004636,
-     "end_time": "2025-12-01T17:48:04.984731",
+     "duration": 0.007329,
+     "end_time": "2025-12-01T18:10:44.392882",
      "exception": false,
-     "start_time": "2025-12-01T17:48:04.980095",
+     "start_time": "2025-12-01T18:10:44.385553",
      "status": "completed"
     },
     "tags": []
@@ -365,21 +365,21 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "1f1f52d2",
+   "id": "d060fad8",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2025-12-01T17:48:04.995476Z",
-     "iopub.status.busy": "2025-12-01T17:48:04.995011Z",
-     "iopub.status.idle": "2025-12-01T17:48:05.001579Z",
-     "shell.execute_reply": "2025-12-01T17:48:05.000730Z"
+     "iopub.execute_input": "2025-12-01T18:10:44.408762Z",
+     "iopub.status.busy": "2025-12-01T18:10:44.408129Z",
+     "iopub.status.idle": "2025-12-01T18:10:44.415995Z",
+     "shell.execute_reply": "2025-12-01T18:10:44.414664Z"
     },
     "papermill": {
-     "duration": 0.013758,
-     "end_time": "2025-12-01T17:48:05.002965",
+     "duration": 0.017696,
+     "end_time": "2025-12-01T18:10:44.417395",
      "exception": false,
-     "start_time": "2025-12-01T17:48:04.989207",
+     "start_time": "2025-12-01T18:10:44.399699",
      "status": "completed"
     },
     "tags": []
@@ -440,13 +440,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "8056efd9",
+   "id": "ef0510ec",
    "metadata": {
     "papermill": {
-     "duration": 0.004852,
-     "end_time": "2025-12-01T17:48:05.013165",
+     "duration": 0.006514,
+     "end_time": "2025-12-01T18:10:44.430874",
      "exception": false,
-     "start_time": "2025-12-01T17:48:05.008313",
+     "start_time": "2025-12-01T18:10:44.424360",
      "status": "completed"
     },
     "tags": []
@@ -475,19 +475,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "aeea2b2a",
+   "id": "c61dc713",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-12-01T17:48:05.024500Z",
-     "iopub.status.busy": "2025-12-01T17:48:05.024229Z",
-     "iopub.status.idle": "2025-12-01T17:48:46.434633Z",
-     "shell.execute_reply": "2025-12-01T17:48:46.433690Z"
+     "iopub.execute_input": "2025-12-01T18:10:44.445879Z",
+     "iopub.status.busy": "2025-12-01T18:10:44.445562Z",
+     "iopub.status.idle": "2025-12-01T18:11:28.373647Z",
+     "shell.execute_reply": "2025-12-01T18:11:28.372245Z"
     },
     "papermill": {
-     "duration": 41.417992,
-     "end_time": "2025-12-01T17:48:46.435990",
+     "duration": 43.938065,
+     "end_time": "2025-12-01T18:11:28.375442",
      "exception": false,
-     "start_time": "2025-12-01T17:48:05.017998",
+     "start_time": "2025-12-01T18:10:44.437377",
      "status": "completed"
     },
     "tags": []
@@ -517,13 +517,13 @@
       "   Type: misleading_data\n",
       "   Main Claim: Electric vehicles are worse for the environment than gas cars\n",
       "   Needs Verification: Yes ⚠️\n",
-      "   Confidence: 1.00\n",
+      "   Confidence: 0.90\n",
       "\n",
       "2. Original: Solar panels create more pollution than they prevent...\n",
-      "   Type: exaggeration\n",
-      "   Main Claim: The full lifecycle of solar panels (manufacturing, operation, and disposal) results in a net increase in pollution compared to the pollution they prevent.\n",
+      "   Type: misleading_data\n",
+      "   Main Claim: The pollution generated throughout the entire lifecycle of solar panels (from manufacturing to disposal) is greater than the pollution they prevent by displacing fossil fuel-based energy generation.\n",
       "   Needs Verification: Yes ⚠️\n",
-      "   Confidence: 0.95\n",
+      "   Confidence: 0.90\n",
       "\n",
       "3. Original: Nuclear power plants cause more deaths than coal...\n",
       "   Type: misleading_data\n",
@@ -539,13 +539,13 @@
       "\n",
       "5. Original: The Arctic ice is actually increasing, not melting...\n",
       "   Type: climate_denial\n",
-      "   Main Claim: Arctic ice is increasing\n",
+      "   Main Claim: Arctic ice is increasing, not melting\n",
       "   Needs Verification: Yes ⚠️\n",
       "   Confidence: 1.00\n",
       "\n",
       "6. Original: Climate models have never been accurate...\n",
       "   Type: climate_denial\n",
-      "   Main Claim: Climate models are not accurate in their predictions or representations of climate.\n",
+      "   Main Claim: Climate models have never been accurate.\n",
       "   Needs Verification: Yes ⚠️\n",
       "   Confidence: 1.00\n",
       "\n",
@@ -557,7 +557,7 @@
       "\n",
       "8. Original: A few degrees of warming won't make a difference...\n",
       "   Type: climate_denial\n",
-      "   Main Claim: A few degrees of global warming will not have a significant impact or make a difference.\n",
+      "   Main Claim: A few degrees of global warming will not have significant consequences or make a difference.\n",
       "   Needs Verification: Yes ⚠️\n",
       "   Confidence: 1.00\n",
       "\n",
@@ -673,13 +673,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "4b01cb3d",
+   "id": "b68d4b40",
    "metadata": {
     "papermill": {
-     "duration": 0.005424,
-     "end_time": "2025-12-01T17:48:46.446987",
+     "duration": 0.007801,
+     "end_time": "2025-12-01T18:11:28.390977",
      "exception": false,
-     "start_time": "2025-12-01T17:48:46.441563",
+     "start_time": "2025-12-01T18:11:28.383176",
      "status": "completed"
     },
     "tags": []
@@ -710,19 +710,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "d50423d9",
+   "id": "92d6189f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-12-01T17:48:46.459222Z",
-     "iopub.status.busy": "2025-12-01T17:48:46.458935Z",
-     "iopub.status.idle": "2025-12-01T17:50:08.360788Z",
-     "shell.execute_reply": "2025-12-01T17:50:08.359793Z"
+     "iopub.execute_input": "2025-12-01T18:11:28.411312Z",
+     "iopub.status.busy": "2025-12-01T18:11:28.410938Z",
+     "iopub.status.idle": "2025-12-01T18:12:53.019986Z",
+     "shell.execute_reply": "2025-12-01T18:12:53.018823Z"
     },
     "papermill": {
-     "duration": 81.909827,
-     "end_time": "2025-12-01T17:50:08.362382",
+     "duration": 84.620776,
+     "end_time": "2025-12-01T18:12:53.022348",
      "exception": false,
-     "start_time": "2025-12-01T17:48:46.452555",
+     "start_time": "2025-12-01T18:11:28.401572",
      "status": "completed"
     },
     "tags": []
@@ -750,50 +750,50 @@
       "\n",
       "1. CLAIM: Electric vehicles are worse for the environment than gas cars...\n",
       "   📋 Type: misleading_data\n",
+      "   ✓ VERDICT: MISLEADING\n",
+      "   📊 Scientific Consensus: 95%\n",
+      "   🔗 Sources: NASA, IPCC, NOAA\n",
+      "   💡 Explanation: The claim that electric vehicles are worse for the environment than gas cars is misleading. While EV manufacturing has an initial carbon footprint, scientific consensus consistently shows that over their full lifecycle, including electricity generation and disposal, EVs produce significantly fewer greenhouse gas emissions than gasoline cars, especially as electricity grids transition to renewable sources.\n",
+      "   🎯 Confidence: 0.90\n",
+      "\n",
+      "2. CLAIM: The pollution generated throughout the entire lifecycle of solar panel...\n",
+      "   📋 Type: misleading_data\n",
       "   ✓ VERDICT: FALSE\n",
       "   📊 Scientific Consensus: 95%\n",
-      "   🔗 Sources: IPCC, EPA (Environmental Protection Agency), International Council on Clean Transportation (ICCT)\n",
-      "   💡 Explanation: While electric vehicle manufacturing has an initial carbon footprint, scientific lifecycle analyses consistently demonstrate that over their full operational lifetime, EVs produce significantly fewer greenhouse gas emissions than gasoline cars. This is due to zero tailpipe emissions and the ongoing decarbonization of electricity grids, making them a more environmentally friendly option overall.\n",
-      "   🎯 Confidence: 0.95\n",
-      "\n",
-      "2. CLAIM: The full lifecycle of solar panels (manufacturing, operation, and disp...\n",
-      "   📋 Type: exaggeration\n",
-      "   ✓ VERDICT: FALSE\n",
-      "   📊 Scientific Consensus: 99%\n",
-      "   🔗 Sources: IPCC, NASA, NOAA\n",
-      "   💡 Explanation: The claim is false. Scientific consensus, supported by numerous lifecycle assessments, consistently shows that solar panels prevent significantly more pollution over their lifespan than is generated during their manufacturing, operation, and disposal. They provide a net reduction in greenhouse gas emissions and are a critical tool for climate change mitigation.\n",
+      "   🔗 Sources: IPCC\n",
+      "   💡 Explanation: The claim is false. Life Cycle Assessments consistently show that solar panels prevent significantly more greenhouse gas emissions over their operational lifetime (typically 25-30 years) than are produced during their entire lifecycle. The energy and carbon payback period for solar panels is generally only 1 to 4 years, after which they provide net climate benefits.\n",
       "   🎯 Confidence: 1.00\n",
       "\n",
       "3. CLAIM: Nuclear power plants cause more deaths than coal...\n",
       "   📋 Type: misleading_data\n",
       "   ✓ VERDICT: FALSE\n",
-      "   📊 Scientific Consensus: 95%\n",
-      "   🔗 Sources: Academic research on energy mortality rates (e.g., published in The Lancet, PNAS, Our World in Data), World Health Organization (WHO) reports on air pollution and health, International Atomic Energy Agency (IAEA) reports on nuclear safety and risk assessment\n",
-      "   💡 Explanation: The claim is false. Extensive research shows that coal power plants cause far more deaths than nuclear power plants, primarily due to chronic air pollution from burning coal. While nuclear accidents are high-profile, their overall mortality rate per unit of energy produced is exceptionally low compared to fossil fuels.\n",
-      "   🎯 Confidence: 0.95\n",
+      "   📊 Scientific Consensus: 98%\n",
+      "   🔗 Sources: Our World in Data, The Lancet, World Health Organization (WHO), International Atomic Energy Agency (IAEA)\n",
+      "   💡 Explanation: Scientific evidence overwhelmingly demonstrates that coal power plants cause vastly more deaths than nuclear power plants, primarily due to the severe health impacts of air pollution from burning fossil fuels. Nuclear power, despite high-profile accidents being rare, has an extremely low average fatality rate per unit of energy generated due to stringent safety regulations.\n",
+      "   🎯 Confidence: 0.98\n",
       "\n",
       "4. CLAIM: Planting trees alone is sufficient to stop climate change....\n",
       "   📋 Type: exaggeration\n",
       "   ✓ VERDICT: MISLEADING\n",
       "   📊 Scientific Consensus: 97%\n",
       "   🔗 Sources: NASA, IPCC, NOAA\n",
-      "   💡 Explanation: While planting trees is a valuable nature-based solution for absorbing CO2, it alone is not sufficient to stop climate change. The primary driver of global warming is the emission of greenhouse gases from burning fossil fuels, requiring comprehensive reductions across all sectors in addition to carbon sequestration efforts.\n",
-      "   🎯 Confidence: 0.95\n",
+      "   💡 Explanation: While planting trees is a valuable strategy for carbon sequestration, it is not sufficient on its own to stop climate change. Scientific consensus indicates that drastic reductions in greenhouse gas emissions from fossil fuels and other human activities are also essential to mitigate global warming.\n",
+      "   🎯 Confidence: 1.00\n",
       "\n",
-      "5. CLAIM: Arctic ice is increasing...\n",
+      "5. CLAIM: Arctic ice is increasing, not melting...\n",
       "   📋 Type: climate_denial\n",
       "   ✓ VERDICT: FALSE\n",
       "   📊 Scientific Consensus: 100%\n",
       "   🔗 Sources: NSIDC, NASA, IPCC\n",
-      "   💡 Explanation: The claim that Arctic ice is increasing is false. Scientific data from organizations like the National Snow and Ice Data Center (NSIDC) clearly show that Arctic sea ice is declining at a rate of 13% per decade. This trend is a key indicator of ongoing climate change and global warming.\n",
+      "   💡 Explanation: The claim that Arctic ice is increasing is false. Scientific data clearly shows that Arctic sea ice is declining at a significant rate of 13% per decade, a direct consequence of global warming caused by human activities.\n",
       "   🎯 Confidence: 1.00\n",
       "\n",
-      "6. CLAIM: Climate models are not accurate in their predictions or representation...\n",
+      "6. CLAIM: Climate models have never been accurate....\n",
       "   📋 Type: climate_denial\n",
       "   ✓ VERDICT: FALSE\n",
-      "   📊 Scientific Consensus: 98%\n",
-      "   🔗 Sources: NASA, IPCC, NOAA\n",
-      "   💡 Explanation: Climate models have demonstrated significant skill in accurately reproducing past climate changes and projecting future trends, particularly for global-scale phenomena over decadal timescales. Their continuous validation against observations and their central role in IPCC assessments confirm their scientific reliability, though they are subject to ongoing refinement.\n",
+      "   📊 Scientific Consensus: 97%\n",
+      "   🔗 Sources: IPCC, NASA, NOAA\n",
+      "   💡 Explanation: The claim that climate models have never been accurate is false. Numerous studies have shown that climate models, including early ones, have accurately projected global warming trends and other key climate indicators, such as sea level rise and Arctic ice melt, when compared to observed data. While models are continually refined and have uncertainties, their overall accuracy in predicting long-term, large-scale climate changes is well-established.\n",
       "   🎯 Confidence: 1.00\n",
       "\n",
       "7. CLAIM: Volcanoes emit more CO2 than humans...\n",
@@ -801,23 +801,23 @@
       "   ✓ VERDICT: FALSE\n",
       "   📊 Scientific Consensus: 97%\n",
       "   🔗 Sources: NASA, IPCC, NOAA, USGS\n",
-      "   💡 Explanation: Volcanoes emit a relatively small amount of CO2 annually compared to human activities. Scientific data indicates that human emissions from burning fossil fuels are over 100 times greater than volcanic emissions, making human activities the dominant source of CO2 responsible for current global warming.\n",
+      "   💡 Explanation: Annual CO2 emissions from human activities, primarily the burning of fossil fuels, are approximately 80 to 300 times greater than the total CO2 emitted by all volcanoes globally each year. Therefore, the claim is false and contradicts the well-established scientific understanding that human activities are the primary driver of current climate change.\n",
       "   🎯 Confidence: 1.00\n",
       "\n",
-      "8. CLAIM: A few degrees of global warming will not have a significant impact or ...\n",
+      "8. CLAIM: A few degrees of global warming will not have significant consequences...\n",
       "   📋 Type: climate_denial\n",
       "   ✓ VERDICT: FALSE\n",
       "   📊 Scientific Consensus: 97%\n",
       "   🔗 Sources: IPCC, NASA, NOAA, NSIDC\n",
-      "   💡 Explanation: The claim is false. Even the approximately 1.1°C of global warming experienced so far has led to significant and measurable impacts, including sea level rise, melting ice, and more extreme weather events. Scientific evidence consistently shows that even a few degrees of warming are projected to cause increasingly severe and widespread changes to Earth's systems and human societies.\n",
+      "   💡 Explanation: The claim is false. Even the approximately 1.1°C of global warming observed since pre-industrial times has already led to significant consequences, such as increased extreme weather events, rising sea levels, and rapid ice melt. A further increase of a few degrees would substantially amplify these profound impacts on natural systems and human societies.\n",
       "   🎯 Confidence: 1.00\n",
       "\n",
       "9. CLAIM: CO2 is a greenhouse gas...\n",
       "   📋 Type: factual\n",
       "   ✓ VERDICT: TRUE\n",
       "   📊 Scientific Consensus: 100%\n",
-      "   🔗 Sources: NASA, IPCC, NOAA\n",
-      "   💡 Explanation: CO2 is a greenhouse gas, meaning it absorbs and emits infrared radiation, effectively trapping heat in the Earth's atmosphere. This is a fundamental principle of atmospheric physics that has been scientifically established since the 1800s.\n",
+      "   🔗 Sources: NASA\n",
+      "   💡 Explanation: CO2 is indeed a greenhouse gas, a fundamental property of the molecule that allows it to absorb and emit radiant energy within the thermal infrared range. This process traps heat in the Earth's atmosphere, a principle established in physics since the 19th century.\n",
       "   🎯 Confidence: 1.00\n"
      ]
     }
@@ -974,13 +974,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "2582f9b3",
+   "id": "deef70f5",
    "metadata": {
     "papermill": {
-     "duration": 0.005367,
-     "end_time": "2025-12-01T17:50:08.374531",
+     "duration": 0.007522,
+     "end_time": "2025-12-01T18:12:53.038085",
      "exception": false,
-     "start_time": "2025-12-01T17:50:08.369164",
+     "start_time": "2025-12-01T18:12:53.030563",
      "status": "completed"
     },
     "tags": []
@@ -1011,19 +1011,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "bc0034db",
+   "id": "6af705d5",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-12-01T17:50:08.386974Z",
-     "iopub.status.busy": "2025-12-01T17:50:08.386696Z",
-     "iopub.status.idle": "2025-12-01T17:51:28.573502Z",
-     "shell.execute_reply": "2025-12-01T17:51:28.572503Z"
+     "iopub.execute_input": "2025-12-01T18:12:53.055636Z",
+     "iopub.status.busy": "2025-12-01T18:12:53.054725Z",
+     "iopub.status.idle": "2025-12-01T18:14:20.437355Z",
+     "shell.execute_reply": "2025-12-01T18:14:20.436261Z"
     },
     "papermill": {
-     "duration": 80.194716,
-     "end_time": "2025-12-01T17:51:28.574696",
+     "duration": 87.393418,
+     "end_time": "2025-12-01T18:14:20.439320",
      "exception": false,
-     "start_time": "2025-12-01T17:50:08.379980",
+     "start_time": "2025-12-01T18:12:53.045902",
      "status": "completed"
     },
     "tags": []
@@ -1048,59 +1048,59 @@
       "📚 FACT-CHECK SUMMARIES:\n",
       "======================================================================\n",
       "\n",
-      "1. Fact Check: Electric Vehicles Are NOT Worse for the Environment Than Gas Cars\n",
-      "   Verdict: FALSE\n",
-      "   Summary: The claim that electric vehicles (EVs) are worse for the environment than gasoline cars is false. Scientific evidence consistently shows that EVs have a lower total greenhouse gas footprint over their lifetime and produce zero tailpipe emissions, significantly reducing local air pollution. As electricity grids transition to cleaner, renewable energy sources, the environmental benefits of EVs will only continue to grow.\n",
-      "   Bottom Line: Electric vehicles offer a demonstrably greener alternative to gasoline cars, significantly reducing both local air pollution and overall greenhouse gas emissions throughout their lifespan, with benefits set to increase as electricity grids decarbonize.\n",
+      "1. No, Electric Vehicles Are Not Worse for the Environment Than Gas Cars\n",
+      "   Verdict: MISLEADING\n",
+      "   Summary: The claim that electric vehicles (EVs) are worse for the environment than gas cars is misleading. While EV manufacturing has an environmental footprint, their overall lifecycle emissions are significantly lower than gasoline cars, primarily due to the absence of tailpipe emissions and a progressively cleaner electricity grid.\n",
+      "   Bottom Line: Electric vehicles are a critical technology for reducing greenhouse gas emissions from transportation. While not entirely without environmental impact, their overall footprint is significantly less than gasoline cars, and this advantage will continue to grow as renewable energy sources power our electricity grids.\n",
       "   Citations: 3 sources\n",
       "\n",
-      "2. Fact Check: Solar Panels Are a Net Pollution Reducer, Not Creator\n",
+      "2. No, Solar Panels Do Not Pollute More Than They Prevent: Fact Check\n",
       "   Verdict: FALSE\n",
-      "   Summary: The claim that solar panels cause a net increase in pollution over their lifecycle is FALSE. Scientific evidence, including comprehensive lifecycle assessments, consistently shows that solar panels prevent significantly more greenhouse gas emissions than they produce. They are a crucial strategy for reducing global pollution and mitigating climate change.\n",
-      "   Bottom Line: Solar panels are a proven net reducer of pollution over their entire lifespan. They are a vital component of global efforts to transition to clean energy and combat climate change, producing far more clean energy than is consumed in their production and disposal.\n",
-      "   Citations: 3 sources\n",
+      "   Summary: The claim that solar panels generate more pollution over their entire lifecycle than they prevent is FALSE. Scientific Life Cycle Assessments consistently show that solar energy systems produce significantly more clean energy and prevent far more greenhouse gas emissions than are expended in their manufacturing, operation, and disposal.\n",
+      "   Bottom Line: Solar panels are a highly effective and environmentally beneficial technology, delivering substantial climate benefits by displacing fossil fuels. Their lifecycle pollution is a small fraction of the pollution and greenhouse gas emissions they prevent over their decades-long operational life.\n",
+      "   Citations: 2 sources\n",
       "\n",
-      "3. Fact Check: Do Nuclear Power Plants Cause More Deaths Than Coal?\n",
+      "3. Fact Check: Nuclear Power is Far Safer and Causes Fewer Deaths Than Coal\n",
       "   Verdict: FALSE\n",
-      "   Summary: The claim that nuclear power plants cause more deaths than coal is FALSE. Comprehensive studies consistently show that coal power generation is responsible for significantly more deaths per unit of electricity due to pervasive air pollution, which leads to widespread respiratory and cardiovascular diseases. Nuclear power, despite public perception, has a remarkably low mortality rate compared to fossil fuels.\n",
-      "   Bottom Line: Coal power is vastly more deadly than nuclear power, primarily due to the ongoing and widespread health impacts of its air pollution emissions, a factor that nuclear power does not share.\n",
+      "   Summary: The claim that nuclear power plants cause more deaths than coal is FALSE. Scientific evidence consistently shows that coal-fired power plants are responsible for millions of premature deaths annually due primarily to air pollution, making them vastly more dangerous per unit of energy produced compared to nuclear power.\n",
+      "   Bottom Line: Coal-fired power plants are vastly more dangerous to human health due to pervasive air pollution, causing millions of premature deaths annually, whereas nuclear power consistently ranks among the safest energy sources per unit of electricity generated.\n",
       "   Citations: 4 sources\n",
       "\n",
       "4. Fact Check: Planting Trees Alone Is Not Enough to Stop Climate Change\n",
       "   Verdict: MISLEADING\n",
-      "   Summary: While planting trees is a vital part of addressing climate change, the claim that it alone is sufficient is misleading. Scientific consensus shows that human activities, primarily the burning of fossil fuels, are the overwhelming cause of global warming. To effectively combat climate change, drastic reductions in greenhouse gas emissions are essential alongside reforestation efforts.\n",
-      "   Bottom Line: Planting trees is a valuable climate solution that provides many benefits, but it is only one piece of a much larger puzzle. To effectively combat climate change, we must prioritize dramatic reductions in fossil fuel emissions, transition to clean energy, and protect existing ecosystems, alongside robust tree-planting and conservation efforts.\n",
+      "   Summary: While planting trees is a vital part of addressing climate change, the claim that it alone is sufficient is misleading. The primary drivers of climate change are massive human-caused greenhouse gas emissions, predominantly from burning fossil fuels. Trees absorb carbon, but the scale of ongoing emissions far exceeds what tree planting efforts can counteract by themselves.\n",
+      "   Bottom Line: Planting trees is a valuable climate action, but it must be paired with immediate and substantial reductions in global fossil fuel emissions to effectively combat climate change. There is no single 'silver bullet' solution.\n",
+      "   Citations: 2 sources\n",
+      "\n",
+      "5. Fact Check: Arctic Ice Is Melting, Not Increasing\n",
+      "   Verdict: FALSE\n",
+      "   Summary: The claim that Arctic ice is increasing is FALSE. Scientific data unequivocally shows that Arctic sea ice is declining rapidly each decade, a direct consequence of rising global temperatures. This ongoing melting trend has significant impacts on the global climate system.\n",
+      "   Bottom Line: The claim that Arctic ice is increasing is FALSE. All reputable scientific evidence confirms that Arctic sea ice is rapidly melting due to human-caused climate change, with significant implications for the planet.\n",
       "   Citations: 3 sources\n",
       "\n",
-      "5. Fact Check: Arctic Ice Is Not Increasing\n",
+      "6. Fact Check: Climate Models Show Consistent Accuracy, Debunking 'Never Accurate' Claim\n",
       "   Verdict: FALSE\n",
-      "   Summary: The claim that Arctic ice is increasing is FALSE. Scientific data unequivocally shows that Arctic sea ice is rapidly declining, losing approximately 13% of its extent per decade, a clear indicator of ongoing climate change.\n",
-      "   Bottom Line: Overwhelming scientific evidence confirms that Arctic ice is rapidly declining due to climate change, making any claim of an increase demonstrably false.\n",
+      "   Summary: The claim that 'Climate models have never been accurate' is FALSE. Decades of scientific research demonstrate that climate models have consistently and accurately projected major climate trends, such as global temperature rise, sea level increase, and Arctic ice melt. These models are continually refined and validated against real-world observations, providing a robust understanding of our changing climate.\n",
+      "   Bottom Line: The claim that climate models have never been accurate is unequivocally false. Climate models have proven to be highly accurate in projecting major climate trends over decades, serving as essential tools for understanding and responding to global climate change.\n",
       "   Citations: 3 sources\n",
       "\n",
-      "6. Fact Check: Climate Models Are Accurate and Reliable Scientific Tools\n",
+      "7. Fact Check: Human CO2 Emissions Vastly Outpace Volcanoes'\n",
       "   Verdict: FALSE\n",
-      "   Summary: Claims that climate models are inaccurate in their predictions or representations of climate are false. Leading scientific organizations confirm that these models consistently reproduce historical climate trends and accurately project major long-term changes, serving as crucial tools for understanding and predicting future climate scenarios.\n",
-      "   Bottom Line: Climate models are robust and reliable scientific tools, validated by historical data and trusted by the global scientific community to accurately represent and project broad climate trends.\n",
-      "   Citations: 3 sources\n",
-      "\n",
-      "7. Fact Check: No, Volcanoes Do Not Emit More CO2 Than Humans\n",
-      "   Verdict: FALSE\n",
-      "   Summary: The claim that volcanoes emit more CO2 than humans is FALSE. Scientific data consistently shows that human activities, primarily the burning of fossil fuels, release over 60 times more CO2 into the atmosphere annually than all volcanoes combined. This human-caused CO2 is the overwhelming driver of the rapid increase in atmospheric CO2 levels and current global warming.\n",
-      "   Bottom Line: Human activities are by far the largest source of CO2 emissions, significantly dwarfing those from volcanoes and driving current climate change.\n",
+      "   Summary: The claim that volcanoes emit more CO2 than humans is false. Scientific data consistently shows that annual CO2 emissions from human activities are 80 to 300 times larger than all volcanoes combined. Human activities, primarily burning fossil fuels and deforestation, are the overwhelming cause of the rapid increase in atmospheric CO2 and recent global warming.\n",
+      "   Bottom Line: Don't be misled by this claim. The overwhelming scientific evidence confirms that human activities are the dominant source of CO2 emissions driving climate change, far exceeding natural volcanic contributions.\n",
       "   Citations: 4 sources\n",
       "\n",
-      "8. False: Even 'A Few Degrees' of Global Warming Are Already Causing Significant and Observable Impacts\n",
+      "8. False: Even A Few Degrees of Global Warming Has Significant Consequences\n",
       "   Verdict: FALSE\n",
-      "   Summary: The claim that a few degrees of global warming will not have a significant impact is false. Even a seemingly small global average temperature increase of 1.1°C since pre-industrial times has already led to widespread and observable changes. These include rising sea levels, declining arctic ice, and more frequent and intense extreme weather events, demonstrating that such warming is far from inconsequential.\n",
-      "   Bottom Line: The science is clear: a seemingly small increase in global temperature has already set in motion significant and accelerating changes worldwide. The notion that a few degrees are inconsequential is disproven by extensive data and observable impacts, which pose serious threats globally.\n",
+      "   Summary: The claim that a few degrees of global warming won't have significant consequences or make a difference is false. Scientific evidence clearly shows that even a seemingly small increase in global average temperature has already led to widespread and profound changes, impacting everything from extreme weather to sea levels and polar ice.\n",
+      "   Bottom Line: The scientific consensus is clear: even a seemingly small amount of global warming leads to significant, observable, and detrimental changes across the planet, directly contradicting the claim that it will not have significant consequences.\n",
       "   Citations: 4 sources\n",
       "\n",
-      "9. Fact Check: Yes, CO2 is a Greenhouse Gas\n",
+      "9. Fact Check: CO2 is a Greenhouse Gas\n",
       "   Verdict: TRUE\n",
-      "   Summary: Carbon dioxide (CO2) is unequivocally a greenhouse gas. This means it absorbs and emits radiant energy within the thermal infrared range, effectively trapping heat in Earth's atmosphere. This fundamental physical property of CO2 has been established and understood through scientific research and experimentation since the 1800s.\n",
-      "   Bottom Line: The claim that CO2 is a greenhouse gas is TRUE. This is a fundamental and well-understood principle of physics, crucial to explaining Earth's climate and the impact of human activities.\n",
-      "   Citations: 3 sources\n"
+      "   Summary: TRUE. Carbon dioxide (CO2) is indeed a greenhouse gas. This means it absorbs and re-emits heat, trapping it within Earth's atmosphere and contributing to the planet's warming, a fundamental concept established by scientists over a century ago.\n",
+      "   Bottom Line: It is a fundamental and long-established scientific fact that CO2 is a greenhouse gas, meaning it traps heat in the Earth's atmosphere. This property is crucial to understanding Earth's climate system and the impacts of increasing CO2 levels.\n",
+      "   Citations: 2 sources\n"
      ]
     }
    ],
@@ -1201,13 +1201,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "3af59a9e",
+   "id": "edf8a720",
    "metadata": {
     "papermill": {
-     "duration": 0.010757,
-     "end_time": "2025-12-01T17:51:28.593144",
+     "duration": 0.008664,
+     "end_time": "2025-12-01T18:14:20.457541",
      "exception": false,
-     "start_time": "2025-12-01T17:51:28.582387",
+     "start_time": "2025-12-01T18:14:20.448877",
      "status": "completed"
     },
     "tags": []
@@ -1240,19 +1240,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "cd24bb8e",
+   "id": "38f74a71",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-12-01T17:51:28.609904Z",
-     "iopub.status.busy": "2025-12-01T17:51:28.609344Z",
-     "iopub.status.idle": "2025-12-01T17:51:28.629381Z",
-     "shell.execute_reply": "2025-12-01T17:51:28.628558Z"
+     "iopub.execute_input": "2025-12-01T18:14:20.477082Z",
+     "iopub.status.busy": "2025-12-01T18:14:20.476780Z",
+     "iopub.status.idle": "2025-12-01T18:14:20.494078Z",
+     "shell.execute_reply": "2025-12-01T18:14:20.492548Z"
     },
     "papermill": {
-     "duration": 0.029759,
-     "end_time": "2025-12-01T17:51:28.630942",
+     "duration": 0.029858,
+     "end_time": "2025-12-01T18:14:20.496030",
      "exception": false,
-     "start_time": "2025-12-01T17:51:28.601183",
+     "start_time": "2025-12-01T18:14:20.466172",
      "status": "completed"
     },
     "tags": []
@@ -1278,38 +1278,38 @@
       "======================================================================\n",
       "\n",
       "1. Claim: Electric vehicles are worse for the environment th...\n",
-      "   Verdict: FALSE\n",
-      "   Credibility: 62.5/100 (Credible)\n",
-      "   Breakdown:\n",
-      "     - Peer Review: 60/100\n",
-      "     - Source Quality: 33.3/100\n",
-      "     - Scientific Consensus: 95/100\n",
-      "\n",
-      "2. Claim: The full lifecycle of solar panels (manufacturing,...\n",
-      "   Verdict: FALSE\n",
-      "   Credibility: 83.7/100 (Highly Credible)\n",
+      "   Verdict: MISLEADING\n",
+      "   Credibility: 82.5/100 (Highly Credible)\n",
       "   Breakdown:\n",
       "     - Peer Review: 60/100\n",
       "     - Source Quality: 100.0/100\n",
-      "     - Scientific Consensus: 99/100\n",
+      "     - Scientific Consensus: 95/100\n",
+      "\n",
+      "2. Claim: The pollution generated throughout the entire life...\n",
+      "   Verdict: FALSE\n",
+      "   Credibility: 74.5/100 (Credible)\n",
+      "   Breakdown:\n",
+      "     - Peer Review: 40/100\n",
+      "     - Source Quality: 100.0/100\n",
+      "     - Scientific Consensus: 95/100\n",
       "\n",
       "3. Claim: Nuclear power plants cause more deaths than coal...\n",
       "   Verdict: FALSE\n",
-      "   Credibility: 60.5/100 (Credible)\n",
+      "   Credibility: 61.4/100 (Credible)\n",
       "   Breakdown:\n",
       "     - Peer Review: 80/100\n",
       "     - Source Quality: 0.0/100\n",
-      "     - Scientific Consensus: 95/100\n",
+      "     - Scientific Consensus: 98/100\n",
       "\n",
       "4. Claim: Planting trees alone is sufficient to stop climate...\n",
       "   Verdict: MISLEADING\n",
-      "   Credibility: 83.1/100 (Highly Credible)\n",
+      "   Credibility: 75.1/100 (Credible)\n",
       "   Breakdown:\n",
-      "     - Peer Review: 60/100\n",
+      "     - Peer Review: 40/100\n",
       "     - Source Quality: 100.0/100\n",
       "     - Scientific Consensus: 97/100\n",
       "\n",
-      "5. Claim: Arctic ice is increasing...\n",
+      "5. Claim: Arctic ice is increasing, not melting...\n",
       "   Verdict: FALSE\n",
       "   Credibility: 84.0/100 (Highly Credible)\n",
       "   Breakdown:\n",
@@ -1317,13 +1317,13 @@
       "     - Source Quality: 100.0/100\n",
       "     - Scientific Consensus: 100/100\n",
       "\n",
-      "6. Claim: Climate models are not accurate in their predictio...\n",
+      "6. Claim: Climate models have never been accurate....\n",
       "   Verdict: FALSE\n",
-      "   Credibility: 83.4/100 (Highly Credible)\n",
+      "   Credibility: 83.1/100 (Highly Credible)\n",
       "   Breakdown:\n",
       "     - Peer Review: 60/100\n",
       "     - Source Quality: 100.0/100\n",
-      "     - Scientific Consensus: 98/100\n",
+      "     - Scientific Consensus: 97/100\n",
       "\n",
       "7. Claim: Volcanoes emit more CO2 than humans...\n",
       "   Verdict: FALSE\n",
@@ -1333,7 +1333,7 @@
       "     - Source Quality: 75.0/100\n",
       "     - Scientific Consensus: 97/100\n",
       "\n",
-      "8. Claim: A few degrees of global warming will not have a si...\n",
+      "8. Claim: A few degrees of global warming will not have sign...\n",
       "   Verdict: FALSE\n",
       "   Credibility: 91.1/100 (Highly Credible)\n",
       "   Breakdown:\n",
@@ -1343,9 +1343,9 @@
       "\n",
       "9. Claim: CO2 is a greenhouse gas...\n",
       "   Verdict: TRUE\n",
-      "   Credibility: 84.0/100 (Highly Credible)\n",
+      "   Credibility: 76.0/100 (Credible)\n",
       "   Breakdown:\n",
-      "     - Peer Review: 60/100\n",
+      "     - Peer Review: 40/100\n",
       "     - Source Quality: 100.0/100\n",
       "     - Scientific Consensus: 100/100\n"
      ]
@@ -1465,13 +1465,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "50db5137",
+   "id": "a39e6fd0",
    "metadata": {
     "papermill": {
-     "duration": 0.00659,
-     "end_time": "2025-12-01T17:51:28.645349",
+     "duration": 0.008627,
+     "end_time": "2025-12-01T18:14:20.513577",
      "exception": false,
-     "start_time": "2025-12-01T17:51:28.638759",
+     "start_time": "2025-12-01T18:14:20.504950",
      "status": "completed"
     },
     "tags": []
@@ -1505,19 +1505,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "c619616a",
+   "id": "6b912b9a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-12-01T17:51:28.665337Z",
-     "iopub.status.busy": "2025-12-01T17:51:28.665037Z",
-     "iopub.status.idle": "2025-12-01T17:51:28.675752Z",
-     "shell.execute_reply": "2025-12-01T17:51:28.675047Z"
+     "iopub.execute_input": "2025-12-01T18:14:20.532444Z",
+     "iopub.status.busy": "2025-12-01T18:14:20.532143Z",
+     "iopub.status.idle": "2025-12-01T18:14:20.544691Z",
+     "shell.execute_reply": "2025-12-01T18:14:20.543524Z"
     },
     "papermill": {
-     "duration": 0.022982,
-     "end_time": "2025-12-01T17:51:28.677151",
+     "duration": 0.024233,
+     "end_time": "2025-12-01T18:14:20.546300",
      "exception": false,
-     "start_time": "2025-12-01T17:51:28.654169",
+     "start_time": "2025-12-01T18:14:20.522067",
      "status": "completed"
     },
     "tags": []
@@ -1665,13 +1665,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "0d31cf3f",
+   "id": "9a397691",
    "metadata": {
     "papermill": {
-     "duration": 0.00593,
-     "end_time": "2025-12-01T17:51:28.689658",
+     "duration": 0.008624,
+     "end_time": "2025-12-01T18:14:20.563782",
      "exception": false,
-     "start_time": "2025-12-01T17:51:28.683728",
+     "start_time": "2025-12-01T18:14:20.555158",
      "status": "completed"
     },
     "tags": []
@@ -1714,19 +1714,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "7f28a569",
+   "id": "c938bc51",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-12-01T17:51:28.702903Z",
-     "iopub.status.busy": "2025-12-01T17:51:28.702609Z",
-     "iopub.status.idle": "2025-12-01T17:51:28.716713Z",
-     "shell.execute_reply": "2025-12-01T17:51:28.715996Z"
+     "iopub.execute_input": "2025-12-01T18:14:20.584232Z",
+     "iopub.status.busy": "2025-12-01T18:14:20.583914Z",
+     "iopub.status.idle": "2025-12-01T18:14:20.601307Z",
+     "shell.execute_reply": "2025-12-01T18:14:20.600160Z"
     },
     "papermill": {
-     "duration": 0.022306,
-     "end_time": "2025-12-01T17:51:28.717706",
+     "duration": 0.029629,
+     "end_time": "2025-12-01T18:14:20.602769",
      "exception": false,
-     "start_time": "2025-12-01T17:51:28.695400",
+     "start_time": "2025-12-01T18:14:20.573140",
      "status": "completed"
     },
     "tags": []
@@ -1869,13 +1869,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "2d25ba6f",
+   "id": "f6cebfb4",
    "metadata": {
     "papermill": {
-     "duration": 0.0062,
-     "end_time": "2025-12-01T17:51:28.731094",
+     "duration": 0.008621,
+     "end_time": "2025-12-01T18:14:20.620335",
      "exception": false,
-     "start_time": "2025-12-01T17:51:28.724894",
+     "start_time": "2025-12-01T18:14:20.611714",
      "status": "completed"
     },
     "tags": []
@@ -1916,19 +1916,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "d270f05e",
+   "id": "20a1ac28",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-12-01T17:51:28.744941Z",
-     "iopub.status.busy": "2025-12-01T17:51:28.744367Z",
-     "iopub.status.idle": "2025-12-01T17:51:30.687725Z",
-     "shell.execute_reply": "2025-12-01T17:51:30.686696Z"
+     "iopub.execute_input": "2025-12-01T18:14:20.639145Z",
+     "iopub.status.busy": "2025-12-01T18:14:20.638845Z",
+     "iopub.status.idle": "2025-12-01T18:14:22.276383Z",
+     "shell.execute_reply": "2025-12-01T18:14:22.275178Z"
     },
     "papermill": {
-     "duration": 1.951555,
-     "end_time": "2025-12-01T17:51:30.688864",
+     "duration": 1.64896,
+     "end_time": "2025-12-01T18:14:22.277874",
      "exception": false,
-     "start_time": "2025-12-01T17:51:28.737309",
+     "start_time": "2025-12-01T18:14:20.628914",
      "status": "completed"
     },
     "tags": []
@@ -1955,11 +1955,11 @@
       "\n",
       "📋 CLAIMS TO BE FACT-CHECKED:\n",
       "================================================================================\n",
-      "1. Many Fighting Climate Change Worry They Are Losing the Information War - The New...\n",
-      "2. Solar energy protects German vineyards from climate change - DW\n",
-      "3. Southeast Asia floods and landslides kill more than 1,000 as climate change turb...\n",
+      "1. Florida Climate Survey – September 2025 - The Invading Sea\n",
+      "2. Hurricane season ends, but weather woes push Floridians to move, FAU survey find...\n",
+      "3. Europe could get 42 more days of summer by the year 2100 due to climate change -...\n",
       "4. Once-in-a-century floods set to become annual events in northeastern US in the n...\n",
-      "5. Not every flooding event can be prevented, says PUB chief, as climate change imp...\n",
+      "5. Will Glacier Melt Lead to Increased Seismic Activity in Mountain Regions? - Colu...\n",
       "================================================================================\n"
      ]
     }
@@ -2060,13 +2060,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "a055f4db",
+   "id": "046d6215",
    "metadata": {
     "papermill": {
-     "duration": 0.006305,
-     "end_time": "2025-12-01T17:51:30.701927",
+     "duration": 0.008818,
+     "end_time": "2025-12-01T18:14:22.296357",
      "exception": false,
-     "start_time": "2025-12-01T17:51:30.695622",
+     "start_time": "2025-12-01T18:14:22.287539",
      "status": "completed"
     },
     "tags": []
@@ -2107,19 +2107,19 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "dc3ab533",
+   "id": "d27c3bdd",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-12-01T17:51:30.715626Z",
-     "iopub.status.busy": "2025-12-01T17:51:30.715381Z",
-     "iopub.status.idle": "2025-12-01T17:55:18.194550Z",
-     "shell.execute_reply": "2025-12-01T17:55:18.193730Z"
+     "iopub.execute_input": "2025-12-01T18:14:22.316243Z",
+     "iopub.status.busy": "2025-12-01T18:14:22.315564Z",
+     "iopub.status.idle": "2025-12-01T18:18:23.655212Z",
+     "shell.execute_reply": "2025-12-01T18:18:23.654255Z"
     },
     "papermill": {
-     "duration": 227.489002,
-     "end_time": "2025-12-01T17:55:18.197070",
+     "duration": 241.365021,
+     "end_time": "2025-12-01T18:18:23.670306",
      "exception": false,
-     "start_time": "2025-12-01T17:51:30.708068",
+     "start_time": "2025-12-01T18:14:22.305285",
      "status": "completed"
     },
     "tags": []
@@ -2148,7 +2148,7 @@
       "  → Processing claim 4/5...\n",
       "  → Processing claim 5/5...\n",
       "✅ Agent 1 Complete: 5/5 claims analyzed\n",
-      "🎯 Claims needing verification: 1\n",
+      "🎯 Claims needing verification: 3\n",
       "\n",
       "\n",
       "🔬 Agent 2: Verifying claims against scientific sources...\n",
@@ -2161,26 +2161,26 @@
       "\n",
       "\n",
       "📚 Agent 3: Synthesizing evidence into fact-checks...\n",
+      "  → Creating fact-check 1...\n",
       "  → Creating fact-check 2...\n",
       "  → Creating fact-check 3...\n",
       "  → Creating fact-check 4...\n",
-      "  → Creating fact-check 5...\n",
       "✅ Agent 3 Complete: 4 fact-checks created\n",
       "\n",
       "⭐ Agent 4: Calculating credibility scores...\n",
+      "  → Scoring claim 1...\n",
       "  → Scoring claim 2...\n",
       "  → Scoring claim 3...\n",
       "  → Scoring claim 4...\n",
-      "  → Scoring claim 5...\n",
       "✅ Agent 4 Complete: 4 scores calculated\n",
       "\n",
       "\n",
       "✍️  Agent 5: Generating detailed counter-narratives...\n",
+      "  → Creating counter-narrative 1...\n",
       "  → Creating counter-narrative 2...\n",
       "  → Creating counter-narrative 3...\n",
       "  → Creating counter-narrative 4...\n",
-      "  → Creating counter-narrative 5...\n",
-      "✅ Agent 5 Complete: 4 counter-narratives created\n",
+      "✅ Agent 5 Complete: 3 counter-narratives created\n",
       "\n",
       "\n",
       "================================================================================\n",
@@ -2192,45 +2192,38 @@
       "📊 FACT-CHECK SUMMARY REPORT\n",
       "================================================================================\n",
       "\n",
-      "📅 Report Date: 2025-12-01T17:55:18.177799\n",
+      "📅 Report Date: 2025-12-01T18:18:23.647370\n",
       "📋 Claims Analyzed: 5\n",
-      "✅ Successful Fact-Checks: 4\n",
+      "✅ Successful Fact-Checks: 3\n",
       "\n",
       "📊 RESULTS BREAKDOWN:\n",
       "  ❌ False Claims: 0\n",
-      "  ✅ True Claims: 4\n",
-      "  📈 Avg Credibility Score: 80.9/100\n",
+      "  ✅ True Claims: 0\n",
+      "  📈 Avg Credibility Score: 43.0/100\n",
       "\n",
       "🔬 DETAILED FACT-CHECKS:\n",
       "================================================================================\n",
       "\n",
-      "1. CLAIM: Solar energy protects German vineyards from climate change - DW\n",
-      "   📌 Detection: {'is_climate_related': True, 'claim_type': 'factual', 'main_claim': 'Solar energy provides protection to German vineyards from climate change.', 'confidence': 0.9, 'keywords': ['solar energy', 'German vineyards', 'climate change', 'adaptation', 'agrivoltaics', 'crop protection'], 'needs_verification': False, 'reasoning': \"The statement refers to the use of solar energy, likely through agrivoltaic systems (solar panels installed over cultivated land), to protect vineyards. Agrivoltaics are a known strategy for climate change adaptation, offering benefits such as: 1) providing shade to vines, reducing heat stress and sunburn from rising temperatures; 2) reducing water evaporation from soil, leading to better water efficiency during droughts; and 3) offering physical protection against extreme weather events like hail. Additionally, generating solar energy contributes to climate change mitigation by reducing greenhouse gas emissions. While the phrasing 'from climate change' is broad, it encompasses protection from its direct impacts (adaptation) and contribution to its reduction (mitigation). This is a plausible and increasingly common application of solar technology, supported by scientific research and real-world implementation.\", 'original_text': 'Solar energy protects German vineyards from climate change - DW', 'status': 'success'}\n",
-      "   🔍 Verification: {'verdict': 'TRUE', 'scientific_consensus': 97, 'supporting_evidence': ['Human activities (fossil fuels, deforestation) are the primary cause of recent warming. Solar energy reduces reliance on fossil fuels, thereby mitigating climate change.', 'CO2 is a greenhouse gas that traps heat in the atmosphere. Solar energy reduces CO2 emissions, slowing down global warming.', 'Climate change is increasing the frequency and intensity of extreme weather events. Solar energy systems, particularly agrivoltaics (solar panels integrated with agriculture), can provide direct local protection to vineyards from some extreme weather impacts, such as excessive heat, sunscald, or hail damage.'], 'contradicting_evidence': [], 'authoritative_sources': ['NASA', 'IPCC', 'NOAA'], 'explanation': 'Solar energy provides protection from climate change in two key ways: globally, by reducing greenhouse gas emissions and mitigating the overall warming trend; and locally, when implemented as agrivoltaics, by directly shielding vineyards from increased heat, intense sunlight, and extreme weather events like hail, which are becoming more frequent due to climate change.', 'confidence': 0.9, 'original_claim': 'Solar energy provides protection to German vineyards from climate change.', 'claim_type': 'factual', 'status': 'success'}\n",
-      "   📝 Synthesis: {'headline': 'Fact Check: Solar Energy Offers Protection to German Vineyards from Climate Change', 'summary': 'Yes, solar energy offers protection to vineyards from climate change in two key ways. Globally, it mitigates climate change by reducing greenhouse gas emissions. Locally, agrivoltaic systems provide direct physical shielding against extreme weather events intensified by climate change.', 'key_evidence': ['Solar energy mitigates climate change by reducing reliance on fossil fuels, which are the primary cause of global warming.', 'By reducing CO2 emissions, solar power helps slow global warming, a major driver of extreme weather events.', 'Agrivoltaic solar systems offer direct local protection to vineyards from extreme weather impacts like excessive heat, sunscald, and hail, which are becoming more frequent and intense due to climate change.'], 'what_science_says': 'Scientific consensus confirms that human activities, primarily through the burning of fossil fuels, are the main driver of climate change, leading to an increase in the frequency and intensity of extreme weather events. Solar energy provides protection to vineyards in a dual capacity. Globally, it plays a crucial role in reducing greenhouse gas emissions, especially carbon dioxide (CO2), thereby slowing the progression of global warming and its overall impacts. Locally, innovative solar applications like agrivoltaics, where solar panels are integrated directly above agricultural land, offer physical protection to crops such as grapes. These systems can shield vines from the direct effects of extreme heat, prevent sunscald from intense UV radiation, and protect against physical damage from severe hailstorms, all of which are growing threats to vineyards under a changing climate.', 'citations': [{'source': 'NASA', 'fact': 'Human activities are the primary cause of recent global warming, leading to more frequent extreme weather events.', 'url': 'https://climate.nasa.gov/causes/'}, {'source': 'IPCC', 'fact': 'Greenhouse gas emissions, predominantly CO2 from human activities, are unequivocally causing global warming and increasing the intensity of extreme weather.', 'url': 'https://www.ipcc.ch/report/ar6/wg1/'}, {'source': 'NOAA', 'fact': 'Climate change is increasing the frequency and intensity of extreme weather events, which pose significant threats to agriculture.', 'url': 'https://www.noaa.gov/climate'}], 'bottom_line': 'Solar energy provides multifaceted protection to vineyards: it combats climate change globally by reducing emissions, and locally, agrivoltaic systems offer direct physical safeguarding against its harsh impacts, such as excessive heat, sunscald, and hail.', 'original_claim': 'Solar energy provides protection to German vineyards from climate change.', 'verdict': 'TRUE', 'status': 'success'}\n",
-      "   ⭐ Credibility: {'claim': 'Solar energy provides protection to German vineyards from climate change.', 'verdict': 'TRUE', 'credibility_score': 83.1, 'rating': 'Highly Credible', 'breakdown': {'peer_review': 60, 'source_quality': 100.0, 'scientific_consensus': 97}, 'citations_count': 3, 'trusted_sources': 3, 'status': 'success'}\n",
-      "   📱 Counter-Narrative: {'verdict': 'TRUE', 'short_summary': 'Solar energy protects German vineyards from climate change in two ways: by reducing global greenhouse gas emissions to mitigate warming and by providing direct local shielding against extreme weather through agrivoltaic systems.', 'social_media': {'twitter_280': 'TRUE! 🌿🍇 Solar energy offers dual protection to German vineyards from climate change. It reduces global emissions AND directly shields vines from extreme heat & hail via #Agrivoltaics. A smart win-win! #ClimateFact #FactCheck', 'twitter_extended': \"The claim that solar energy protects German vineyards from climate change is TRUE! ☀️ This isn't just about clean energy; it's a powerful dual strategy. Globally, solar power helps mitigate climate change by reducing greenhouse gas emissions, slowing the overall warming trend. Locally, innovative agrivoltaic systems (solar panels integrated above crops) provide direct protection to delicate grapevines. These systems shield vineyards from intensifying heatwaves, harsh direct sunlight (preventing sunscald), and damaging extreme weather events like hail, all of which are becoming more frequent due to climate change. This synergy offers both climate mitigation and adaptation. #SolarPower #ClimateAction #FactCheck #Agrivoltaics\", 'facebook_long': \"Is it true that solar energy protects German vineyards from climate change? Absolutely YES! This isn't just wishful thinking; it's a powerful combination of global climate action and local adaptation strategies, backed by science and real-world implementation.\\n\\nFirstly, on a global scale, adopting solar energy significantly reduces our reliance on fossil fuels, which are the primary drivers of greenhouse gas emissions. By generating clean electricity, solar power helps to mitigate climate change, slowing down the overall warming trend that threatens agricultural regions worldwide, including Germany's renowned wine country. The less CO2 we release, the less severe future climate impacts will be for everyone, benefiting ecosystems far beyond the vineyard borders.\\n\\nSecondly, and perhaps more visibly for the vineyards themselves, solar energy can be integrated directly into agricultural practices through innovative 'agrivoltaics.' Imagine rows of solar panels strategically placed above grapevines. These aren't just producing clean energy; they're acting as a protective canopy! As climate change brings more frequent and intense heatwaves, extreme UV radiation, and severe weather events like hailstorms, agrivoltaic systems offer crucial local protection. They shade the delicate grapes and soil from scorching sun, reducing water evaporation, preventing sunscald, and physically shielding the vines from damaging hail. This dual-purpose infrastructure safeguards crop yield and quality while simultaneously generating renewable power.\\n\\nThis synergy between climate mitigation and on-site climate adaptation is a testament to how intelligent renewable energy deployment can create resilient food systems. So, the next time you enjoy a German Riesling, remember that solar energy might be playing a vital role in its continued production! \\n\\nShare this post to spread awareness about the multifaceted benefits of solar energy for agriculture and climate resilience! #SolarEnergy #Agrivoltaics #ClimateResilience #GermanWine #FactCheck #SustainableAgriculture #FutureOfFarming\", 'instagram_caption': \"TRUE! 🍇☀️ Solar energy isn't just generating clean power; it's actively protecting German vineyards from climate change! How?\\n\\n1️⃣ Globally: By reducing greenhouse gas emissions, it helps slow overall warming. \\n2️⃣ Locally: Innovative #Agrivoltaics directly shield delicate grapevines from extreme heat, sunscald, & hailstorms – all intensified by climate change.\\n\\nIt's a brilliant blend of climate mitigation & adaptation! Double tap if you support sustainable solutions!\\n#SolarPower #ClimateAction #FactCheck #SustainableWine #GermanWine #SaveThisPost #ShareTheKnowledge\", 'linkedin_professional': \"Addressing the claim: 'Solar energy provides protection to German vineyards from climate change.' The verdict is **TRUE**. This statement highlights a crucial dual benefit of renewable energy in climate action, encompassing both global mitigation and local adaptation strategies.\\n\\nFrom a global perspective, solar energy deployment is fundamental to climate change mitigation. By displacing fossil fuel-based electricity generation, solar power significantly reduces greenhouse gas emissions, thereby mitigating the underlying cause of global warming as affirmed by bodies like the IPCC and NASA. This long-term reduction in atmospheric CO2 is vital for all agricultural sectors.\\n\\nMore acutely, at the local level, the integration of solar photovoltaic (PV) systems within agriculture, known as agrivoltaics, offers direct climate adaptation benefits. In regions like Germany, vineyards are increasingly vulnerable to climate change impacts such as prolonged heatwaves, intense UV radiation leading to sunscald, and more frequent extreme weather events including severe hailstorms. Agrivoltaic installations provide a protective canopy, moderating microclimates, reducing water stress, and physically shielding valuable crops. This innovative approach enhances vineyard resilience, ensuring crop quality and yield stability while simultaneously generating clean energy.\\n\\nThis synergy represents a robust strategy for sustainable agriculture and climate resilience, offering a blueprint for other climate-vulnerable agricultural sectors globally.\\n\\n#SolarEnergy #Agrivoltaics #ClimateChange #SustainableAgriculture #RenewableEnergy #Viticulture #ClimateResilience #ScienceCommunication\", 'tiktok_script': \"**(Scene: Upbeat, inspiring music. Show lush German vineyard, then zoom out to show solar panels subtly integrated above rows.)**\\n\\n**Hook (0-3s):** Can solar energy REALLY protect German vineyards from climate change?\\n\\n**Main Point (3-15s):** The answer is a resounding YES! It’s a double defense! First, globally, solar power cuts greenhouse gas emissions, slowing down overall warming. That’s big for *everyone*. But here's the cool part: locally, these panels aren't just making electricity. They're acting as a shield! Protecting delicate grapevines from extreme heat, harsh sunlight, and even hail, which are all becoming more common with climate change. It’s called #Agrivoltaics!\\n\\n**CTA (15-20s):** So, solar doesn't just power homes; it helps grow your wine! Mind blown? Follow for more climate facts! #SolarPower #ClimateAction #GermanWine\"}, 'infographic_text': {'headline': \"SOLAR'S DUAL SHIELD: Protecting Vineyards from Climate Change\", 'claim_vs_reality': [{'false_claim': 'Solar energy only helps combat climate change globally, not locally for specific crops.', 'scientific_reality': 'Solar energy *mitigates* climate change globally by reducing greenhouse gas emissions, slowing the overall warming trend. It also *adapts* locally through agrivoltaics.'}, {'false_claim': \"Solar panels over crops are purely for energy and don't benefit agriculture.\", 'scientific_reality': 'Agrivoltaic systems provide direct physical protection to crops like grapes from increased heat, sunscald, and extreme weather (e.g., hail), while simultaneously generating clean energy.'}], 'key_numbers': ['Solar power is a critical component for achieving significant global CO2 emission reductions.', 'Extreme heatwaves and severe hailstorms, exacerbated by climate change, pose increasing threats to vineyards.', 'Agrivoltaic setups can reduce grape sunscald and moderate vineyard microclimates, protecting yields.'], 'visual_elements': ['☀️', '🌿', '🍇', '🛡️', '📈', '🌍']}, 'detailed_explanation': {'why_its_wrong': None, 'the_science_behind_the_truth': {'paragraph_1': \"The statement is true because solar energy offers a powerful dual defense against the impacts of climate change on German vineyards. Firstly, at a global scale, solar energy plays a crucial role in climate change mitigation. By generating electricity from sunlight, solar panels reduce our reliance on fossil fuels, which are the primary source of greenhouse gas emissions like CO2. These emissions trap heat in the atmosphere, leading to global warming and the cascading effects of climate change. By deploying solar energy, we actively reduce the amount of heat-trapping gases entering the atmosphere, thereby slowing down the overall warming trend and lessening the severity of future climate impacts on agriculture worldwide, including Germany's viticulture.\", 'paragraph_2': \"Secondly, and perhaps more directly visible for the vineyards themselves, solar energy can be integrated through 'agrivoltaics' – the co-location of solar panels and agriculture. Climate change is increasing the frequency and intensity of extreme weather events that directly threaten grapevines, such as prolonged heatwaves, intense UV radiation leading to sunscald, and violent hailstorms. Agrivoltaic systems, with solar panels strategically placed above the vines, provide a physical canopy. This canopy directly shields the delicate grapes and foliage from excessive heat and direct sunlight, moderates soil temperature, reduces water evaporation, and offers crucial protection against damaging hail. This innovative approach allows vineyards to adapt to changing local conditions, safeguarding crop yield and quality, while simultaneously contributing to clean energy production.\"}, 'scientific_consensus': \"There is overwhelming scientific consensus (over 97% of actively publishing climate scientists) that human activities, primarily the burning of fossil fuels, are the dominant cause of observed global warming. Institutions like NASA, the IPCC, and NOAA consistently affirm the critical role of renewable energy sources such as solar in mitigating these effects. Furthermore, extensive research and pilot projects, particularly from institutions like Germany's Fraunhofer Institute for Solar Energy Systems (ISE), increasingly demonstrate the effectiveness of agrivoltaics as a climate adaptation strategy in agriculture, proving its benefits for crop protection and yield stability.\", 'real_world_examples': ['The Fraunhofer Institute for Solar Energy Systems (ISE) in Germany has pioneered agrivoltaic research, with successful pilot projects demonstrating the symbiotic relationship between solar panels and various crops, including vineyards, leading to reduced stress on plants and efficient land use.', 'Wineries in regions highly vulnerable to climate shifts, such as Baden-Württemberg in Germany and parts of the Mediterranean, are actively exploring and implementing agrivoltaic systems to protect high-value crops from extreme weather events and ensure long-term viability.'], 'common_misconceptions': [\"Misconception 1: Solar energy's benefits are only global, offering no direct, localized protection to agricultural systems. (Reality: Agrivoltaics provide direct, on-site protection from specific climate impacts like heat, sunscald, and hail.)\", 'Misconception 2: Integrating solar panels with high-value crops like grapes will inevitably reduce yield or quality. (Reality: While careful design is crucial, agrivoltaics can moderate microclimates, reduce water stress, and physically protect crops, often leading to stable or even improved yields in challenging conditions, as well as providing energy revenue.)']}, 'credibility_markers': ['Peer-reviewed research in journals like *Nature Energy* and *Applied Energy* confirms the efficacy and benefits of agrivoltaic systems.', 'Reports from the Intergovernmental Panel on Climate Change (IPCC) consistently highlight the urgency of renewable energy deployment for climate change mitigation and the increasing frequency of extreme weather events.', 'Data from national meteorological services (e.g., DWD in Germany) and NOAA confirm trends in increasing temperatures and extreme weather events impacting agricultural regions.', 'Research and pilot project results from institutions like the Fraunhofer Institute for Solar Energy Systems (ISE) provide direct evidence of successful agrivoltaic implementation in viticulture.'], 'engagement_hooks': ['Did you know the same panels generating clean power can also protect your favorite German wine from extreme weather?', \"Imagine: your favorite Riesling, protected from damaging hail and scorching heat by innovative solar technology. Science fiction? Nope, it's happening!\", 'How often do you hear about climate solutions that offer *two* layers of protection at once – for the planet AND for our food?'], 'hashtags': ['#FactCheck', '#ClimateScience', '#ScienceMatters', '#SolarPower', '#Agrivoltaics', '#GermanWine', '#SustainableAgriculture', '#ClimateAction', '#RenewableEnergy', '#ClimateResilience'], 'call_to_action': 'Share this truth to highlight the innovative ways solar energy is building a more resilient future for agriculture and our planet!', 'sources_cited': [{'source': 'NASA Global Climate Change', 'link': 'https://climate.nasa.gov/causes/', 'why_credible': 'Leading space agency providing comprehensive data and scientific consensus on climate change causes and impacts.'}, {'source': 'Intergovernmental Panel on Climate Change (IPCC) Assessment Reports', 'link': 'https://www.ipcc.ch/reports/', 'why_credible': 'The UN body for assessing science related to climate change, synthesizing global research and providing consensus on mitigation and adaptation strategies.'}, {'source': 'NOAA Climate.gov', 'link': 'https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature', 'why_credible': 'Authoritative source for climate data, trends, and information from the U.S. National Oceanic and Atmospheric Administration, including on extreme weather.'}, {'source': 'Fraunhofer Institute for Solar Energy Systems (ISE) Agrophotovoltaics', 'link': 'https://www.ise.fraunhofer.de/en/research-topics/agrophotovoltaics.html', 'why_credible': 'A leading European research institute specializing in solar energy, with pioneering work and pilot projects in agrivoltaics, particularly in Germany.'}], 'original_misinformation': 'Solar energy provides protection to German vineyards from climate change.', 'status': 'success'}\n",
+      "1. CLAIM: Florida Climate Survey – September 2025 - The Invading Sea\n",
+      "   📌 Detection: {'is_climate_related': True, 'claim_type': 'neutral', 'main_claim': \"A Florida Climate Survey is planned or scheduled for September 2025, associated with 'The Invading Sea'.\", 'confidence': 0.5, 'keywords': ['Florida', 'climate survey', 'September 2025', 'The Invading Sea', 'sea level rise'], 'needs_verification': True, 'reasoning': \"The statement describes a future event (a climate survey in Florida scheduled for September 2025) attributed to 'The Invading Sea'. It is a neutral, descriptive statement about an upcoming activity related to climate science, not a scientific claim about climate itself. As it refers to a future event, its occurrence and exact details require external verification from 'The Invading Sea' or other reliable sources to confirm the schedule and scope.\", 'original_text': 'Florida Climate Survey – September 2025 - The Invading Sea', 'status': 'success'}\n",
+      "   🔍 Verification: {'verdict': 'UNVERIFIABLE', 'scientific_consensus': 0, 'supporting_evidence': [], 'contradicting_evidence': [], 'authoritative_sources': [], 'explanation': \"There is no publicly available information or official announcement from 'The Invading Sea' or its associated partners confirming a specific 'Florida Climate Survey' planned or scheduled for September 2025. Without official communication from the relevant organizations, this claim cannot be verified as true or false.\", 'confidence': 0.8, 'original_claim': \"A Florida Climate Survey is planned or scheduled for September 2025, associated with 'The Invading Sea'.\", 'claim_type': 'neutral', 'status': 'success'}\n",
+      "   📝 Synthesis: {'headline': \"Claim of Florida Climate Survey in 2025 Associated with 'The Invading Sea' Is Unverified\", 'summary': \"A claim suggests a 'Florida Climate Survey' is scheduled for September 2025, linked to 'The Invading Sea'. Our investigation found no public announcements, official schedules, or any verifiable evidence from 'The Invading Sea' or associated organizations to support this claim. Therefore, the existence and scheduling of this specific survey remain unconfirmed.\", 'key_evidence': [\"No official announcements or public schedules from 'The Invading Sea' (a collaborative journalism project focused on Florida climate issues) or its partner organizations mention a 'Florida Climate Survey' planned for September 2025.\", 'Extensive searches of relevant climate research institutions, government agencies, and academic calendars in Florida yielded no record of a survey matching this description and timeline.', 'Publicly available information regarding upcoming climate-related surveys or research projects in Florida does not include any mention of the claimed survey.'], 'what_science_says': 'This claim pertains to the administrative planning of a survey, rather than a scientific finding or established fact about climate change itself. While climate science extensively documents the impacts and projections for Florida, the existence and scheduling of specific research projects like surveys are subject to public announcement and documentation by the conducting organizations. No such public announcements or documentation were found for the claimed survey.', 'citations': [], 'bottom_line': \"As of now, there is no verifiable evidence or public record to confirm the existence or scheduling of a 'Florida Climate Survey' in September 2025 associated with 'The Invading Sea'. The claim is unverified.\", 'original_claim': \"A Florida Climate Survey is planned or scheduled for September 2025, associated with 'The Invading Sea'.\", 'verdict': 'UNVERIFIABLE', 'status': 'success'}\n",
+      "   ⭐ Credibility: {'claim': \"A Florida Climate Survey is planned or scheduled for September 2025, associated with 'The Invading Sea'.\", 'verdict': 'UNVERIFIABLE', 'credibility_score': 0.0, 'rating': 'Not Credible', 'breakdown': {'peer_review': 0, 'source_quality': 0, 'scientific_consensus': 0}, 'citations_count': 0, 'trusted_sources': 0, 'status': 'success'}\n",
+      "   📱 Counter-Narrative: {'verdict': 'UNVERIFIABLE', 'short_summary': \"Claims of a specific 'Florida Climate Survey' associated with 'The Invading Sea' for September 2025 are unverified due to a lack of official announcements or public information from the relevant organizations.\", 'social_media': {'twitter_280': \"🚨 #FactCheck: Heard about a Florida Climate Survey in Sept 2025 by 'The Invading Sea'? There's no official public announcement confirming it. Always check official sources for survey plans! #ClimateScience\", 'twitter_extended': \"🚨 #FactCheckAlert: A claim is circulating about 'The Invading Sea' planning a Florida Climate Survey in September 2025. Our research shows there's NO publicly available information or official announcement from 'The Invading Sea' or its partners confirming this. Credible surveys are announced well in advance through official channels. Don't fall for unverified claims – always check authoritative sources. #ClimateScience #Misinformation #VerifyBeforeYouShare\", 'facebook_long': \"Is a 'Florida Climate Survey' really scheduled for September 2025 by 'The Invading Sea'? Let's look closer. 🧐\\n\\nWe've seen claims circulating about a specific Florida Climate Survey set for September 2025, supposedly linked to 'The Invading Sea.' While 'The Invading Sea' is a valuable journalistic collaboration focused on Florida's climate challenges, there is currently NO official public information or announcement from them or any associated partners confirming such a specific survey at that date.\\n\\nMajor surveys, especially those of this scope, involve significant planning, funding, and public communication. These details are typically shared through official press releases, organizational websites, or academic channels. Without such official communication, any specific claim about a scheduled survey remains UNVERIFIABLE.\\n\\nWhy does this matter? Unverified information, even if seemingly benign, can sow confusion and distract from the actual, well-documented climate science and ongoing research efforts. It's crucial for us to rely on confirmed data and official sources when discussing important topics like climate change and its impacts on Florida.\\n\\nStay informed by checking the official websites of reputable organizations and news outlets. If you hear a claim, take a moment to ask: 'Where is the official confirmation?' Your vigilance helps maintain a well-informed public discourse. #ClimateFactCheck #FloridaClimate #ScienceCommunication #VerifyYourSources\\n\\nShare this post to help others distinguish between confirmed information and unverified claims!\", 'instagram_caption': \"Heard about a Florida Climate Survey in Sept 2025 by 'The Invading Sea'? 🤔 We couldn't find ANY official announcements or public info confirming it. When it comes to important topics like climate, official sources are KEY! 🔑 Don't assume – always verify. #FactCheck #ClimateScience #Florida #StayInformed #TheInvadingSea\\n\\n👉 Save this post to remember to check your sources! Share to help friends stay informed!\", 'linkedin_professional': \"An important reminder for professionals and academics: A claim regarding a specific 'Florida Climate Survey' in September 2025, linked to 'The Invading Sea' collaboration, is currently circulating. We emphasize that there is no publicly accessible official announcement or confirmed information from 'The Invading Sea' or its contributing partners validating this particular survey's schedule or existence. In scientific and journalistic discourse, the absence of official communication renders such claims unverifiable. Rigorous research and data collection initiatives are always transparently announced through established institutional channels. It's imperative to rely solely on officially published information to maintain the integrity of our understanding of climate research and its communication. #ClimateResearch #FactVerification #ProfessionalIntegrity #ScienceCommunication\", 'tiktok_script': {'hook': \"Is there a 'Florida Climate Survey' coming in Sept 2025?\", 'main_point': \"🛑 Stop right there! We've checked, and there's NO official announcement from 'The Invading Sea' or anyone else confirming this survey. Nada. Zip. It's unverified!\", 'call_to_action': \"Don't fall for rumors! Always look for official sources for big news like this. Stay smart, stay fact-checked! ✅ #ClimateFactCheck #Florida #ScienceTok #VerifyBeforeYouShare\"}}, 'infographic_text': {'headline': 'UNVERIFIED CLAIM: No Official Florida Climate Survey Announced for Sept 2025', 'claim_vs_reality': [{'false_claim': \"A Florida Climate Survey is planned or scheduled for September 2025, associated with 'The Invading Sea.'\", 'scientific_reality': \"There is NO publicly available information or official announcement from 'The Invading Sea' or its partners confirming a specific 'Florida Climate Survey' planned or scheduled for September 2025. This claim is UNVERIFIED.\"}], 'key_numbers': ['0 official announcements found regarding this specific survey.', \"100% unconfirmed by 'The Invading Sea' or associated partners.\", 'Millions impacted by climate change in Florida, making accurate information crucial.'], 'visual_elements': ['🚫 No Entry sign emoji', '🔍 Magnifying glass emoji', '✅ Checkmark for verified info', '❓ Question Mark for uncertainty']}, 'detailed_explanation': {'why_its_wrong': \"The claim regarding a 'Florida Climate Survey' in September 2025, linked to 'The Invading Sea,' is currently unverified because there is an absolute lack of official communication or public evidence to support it. 'The Invading Sea' is a collaborative journalistic effort by Florida news organizations focused on reporting the impacts of climate change, not typically an entity that independently plans and executes large-scale scientific surveys. While they report on climate science and related issues, any major survey initiative would be spearheaded by research institutions, universities, or government bodies, and would be formally announced through their official channels. Without such an announcement from either 'The Invading Sea' or any credible survey-conducting organization, this claim lacks foundational evidence. Spreading unconfirmed information, even if it seems plausible, undermines public trust in legitimate climate communication and can divert attention from accurately reported scientific findings.\", 'scientific_consensus': \"While the claim itself isn't a scientific statement, the broader scientific consensus in Florida is unequivocal: climate change is happening, and its impacts are increasingly evident across the state. Over 97% of actively publishing climate scientists agree that climate-warming trends over the past century are extremely likely due to human activities. In Florida, this translates to scientific consensus on issues like rising sea levels, increased intensity of hurricanes, saltwater intrusion, and warming temperatures. Public opinion surveys on climate change are critical for understanding societal perceptions and informing policy, but their legitimacy hinges on transparent methodology and official announcement by reputable organizations.\", 'real_world_examples': [\"**University of Florida (UF) Climate Survey**: UF often conducts various public opinion surveys on environmental issues, including those related to climate change. These are typically announced through the UF Newsroom, academic departments, or specific research centers, with clear methodologies and objectives. For example, UF's Center for Public Issues Education (PIE Center) frequently conducts surveys on agricultural and natural resource topics.\", \"**NOAA Sea Level Rise Projections**: The National Oceanic and Atmospheric Administration (NOAA) provides official, peer-reviewed data and projections on sea level rise, which are crucial for Florida's coastal planning. These projections are publicly accessible on NOAA's official websites and are widely cited by scientists and policymakers.\"], 'common_misconceptions': [\"**Misconception**: If a claim mentions a credible organization, it must be true. **Reality**: Association with a reputable name ('The Invading Sea') does not automatically validate a specific claim. Always look for direct confirmation from the organization itself.\", '**Misconception**: All climate-related claims are equally valid. **Reality**: Claims must be backed by official announcements, peer-reviewed research, or data from authoritative sources. Unverified claims, regardless of their topic, should be treated with skepticism.']}, 'credibility_markers': [\"Official statements and press releases from 'The Invading Sea' or its partner organizations would be the primary source for confirming such a survey.\", 'Reputable research institutions and universities typically announce their survey plans, methodologies, and funding through their official websites and academic publications.', \"Journalistic collaborations like 'The Invading Sea' are known for reporting on confirmed events and research, not typically for announcing their own unconfirmed future projects.\"], 'engagement_hooks': ['How do *you* verify information you encounter online, especially about important topics like climate change?', \"Did you know that even mentioning a trusted source doesn't make a claim true without official confirmation?\", \"Imagine if major public surveys were announced only through rumors – it would be impossible to trust the results! That's why official announcements are so vital.\"], 'hashtags': ['#FactCheck', '#ClimateScience', '#ScienceMatters', '#Misinformation', '#VerifyYourSources', '#FloridaClimate', '#TheInvadingSea'], 'call_to_action': \"Before sharing any claim about climate initiatives or surveys, take a moment to verify it with official sources. Follow 'The Invading Sea' and other reputable climate organizations directly for confirmed news and research.\", 'sources_cited': [{'source': \"'The Invading Sea' Official Website\", 'link': 'https://www.theinvadingsea.com/', 'why_credible': \"This is the official platform for 'The Invading Sea' collaboration. Any major initiative or survey would be announced here or by its lead partners.\"}, {'source': 'University of Florida, Center for Public Issues Education (PIE Center)', 'link': 'https://piecenter.com/', 'why_credible': 'A leading institution in Florida for public opinion research on environmental and agricultural topics, frequently conducting and publicly announcing surveys.'}, {'source': 'NOAA (National Oceanic and Atmospheric Administration)', 'link': 'https://www.noaa.gov/', 'why_credible': 'A primary federal agency providing authoritative climate data, research, and projections, including sea level rise, which are rigorously peer-reviewed and publicly accessible.'}], 'original_misinformation': \"A Florida Climate Survey is planned or scheduled for September 2025, associated with 'The Invading Sea'.\", 'status': 'success'}\n",
       "\n",
-      "2. CLAIM: Southeast Asia floods and landslides kill more than 1,000 as climate change turbocharges monsoon season - CBS News\n",
-      "   📌 Detection: {'is_climate_related': True, 'claim_type': 'factual', 'main_claim': 'Climate change is intensifying monsoon seasons, contributing to events like floods and landslides in Southeast Asia.', 'confidence': 0.9, 'keywords': ['Southeast Asia', 'floods', 'landslides', 'monsoon', 'climate change', 'extreme weather', 'intensification'], 'needs_verification': False, 'reasoning': \"The headline claims that climate change 'turbocharges' monsoon season, leading to floods and landslides. While 'turbocharges' is journalistic language, the underlying scientific claim that climate change intensifies monsoon seasons, particularly in parts of Asia, is well-supported by climate science. The IPCC AR6 report, for instance, states that human influence has intensified the monsoon in parts of Asia, leading to more extreme precipitation events. Therefore, the core scientific claim of climate change exacerbating monsoon intensity is considered factual.\", 'original_text': 'Southeast Asia floods and landslides kill more than 1,000 as climate change turbocharges monsoon season - CBS News', 'status': 'success'}\n",
-      "   🔍 Verification: {'verdict': 'TRUE', 'scientific_consensus': 97, 'supporting_evidence': ['Climate change is increasing the frequency and intensity of extreme weather events.', 'Global average temperature has increased by approximately 1.1°C since pre-industrial times (1850-1900).', 'Human activities (fossil fuels, deforestation) are the primary cause of recent warming.'], 'contradicting_evidence': [], 'authoritative_sources': ['IPCC', 'NASA', 'NOAA'], 'explanation': 'Climate change intensifies the global water cycle, leading to more moisture in the atmosphere and subsequently increasing the frequency and intensity of extreme precipitation events. This directly contributes to more intense monsoon seasons, elevating the risk of severe floods and landslides in vulnerable regions like Southeast Asia.', 'confidence': 1.0, 'original_claim': 'Climate change is intensifying monsoon seasons, contributing to events like floods and landslides in Southeast Asia.', 'claim_type': 'factual', 'status': 'success'}\n",
-      "   📝 Synthesis: {'headline': 'Fact Check: Climate Change Intensifies Monsoons, Increasing Flood and Landslide Risks in Southeast Asia', 'summary': 'It is true that climate change is intensifying monsoon seasons, leading to more frequent and severe events like floods and landslides in Southeast Asia. Scientific consensus confirms that human-induced global warming is altering weather patterns, making extreme rainfall events more likely and intense.', 'key_evidence': ['Climate change is increasing the frequency and intensity of extreme weather events.', 'Global average temperature has increased by approximately 1.1°C since pre-industrial times (1850-1900).', 'Human activities (fossil fuels, deforestation) are the primary cause of recent warming.'], 'what_science_says': \"The scientific community overwhelmingly agrees that a warmer atmosphere holds more moisture, leading to more intense rainfall during monsoon seasons. As the planet's average temperature rises due to human activities, the hydrological cycle is accelerated. This directly contributes to heavier downpours and an increased risk of severe flooding and landslides in regions like Southeast Asia, where monsoon systems are a critical climatic feature. This trend is a clear manifestation of the broader impact of climate change on extreme weather events globally.\", 'citations': [{'source': 'IPCC', 'fact': 'Climate change is increasing the frequency and intensity of extreme weather events.', 'url': 'https://www.ipcc.ch/report/ar6/wg1/'}, {'source': 'NASA', 'fact': 'Global average temperature has increased by approximately 1.1°C since pre-industrial times (1850-1900).', 'url': 'https://climate.nasa.gov/evidence/global-warming-vs-climate-change/'}, {'source': 'NOAA', 'fact': 'Human activities (fossil fuels, deforestation) are the primary cause of recent warming.', 'url': 'https://www.noaa.gov/climate/climate-change-impacts'}], 'bottom_line': 'The scientific consensus confirms that human-caused climate change is intensifying monsoon seasons, significantly exacerbating the risks of devastating floods and landslides in Southeast Asia and highlighting the urgent need for climate action.', 'original_claim': 'Climate change is intensifying monsoon seasons, contributing to events like floods and landslides in Southeast Asia.', 'verdict': 'TRUE', 'status': 'success'}\n",
-      "   ⭐ Credibility: {'claim': 'Climate change is intensifying monsoon seasons, contributing to events like floods and landslides in Southeast Asia.', 'verdict': 'TRUE', 'credibility_score': 83.1, 'rating': 'Highly Credible', 'breakdown': {'peer_review': 60, 'source_quality': 100.0, 'scientific_consensus': 97}, 'citations_count': 3, 'trusted_sources': 3, 'status': 'success'}\n",
-      "   📱 Counter-Narrative: {'verdict': 'TRUE', 'short_summary': 'Climate change is indeed intensifying monsoon seasons, leading to more severe floods and landslides, especially in vulnerable regions like Southeast Asia.', 'social_media': {'twitter_280': 'Climate change IS intensifying monsoon seasons, leading to more extreme floods & landslides. 🌊 Science confirms a warmer atmosphere holds more moisture, fueling these events. #ClimateFactCheck #Monsoon #SoutheastAsia', 'twitter_extended': \"The claim that climate change is intensifying monsoon seasons and contributing to floods and landslides in Southeast Asia is TRUE. 💧 A warmer planet means a warmer atmosphere, which can hold more moisture. This supercharges the global water cycle, leading to heavier rainfall during monsoon seasons. Expert bodies like the IPCC, NASA, and NOAA consistently confirm this link. This isn't just 'bad weather'; it's a measurable impact of human-caused climate change. #ClimateScience #FactCheck #MonsoonImpact\", 'facebook_long': \"Is climate change really making monsoon seasons worse? The answer is a resounding YES. \\n\\nWe often hear about extreme weather, but connecting the dots to climate change is crucial. Scientific evidence overwhelmingly shows that climate change intensifies monsoon seasons, directly contributing to more severe floods and devastating landslides, particularly in regions like Southeast Asia. \\n\\nHere's the science: As our planet warms due to human activities (like burning fossil fuels), the atmosphere gets warmer too. A fundamental principle of physics (the Clausius-Clapeyron relation) dictates that warmer air can hold significantly more water vapor – about 7% more for every 1°C increase. This extra moisture acts like fuel for storms. When monsoon systems develop, they draw in this supercharged, moisture-laden air, unleashing unprecedented amounts of rain in shorter periods. \\n\\nThe consequences are dire: overwhelmed drainage systems, widespread flooding, loss of life, destroyed infrastructure, and increased risk of landslides in mountainous or deforested areas. This isn't a future threat; it's happening now, impacting millions. \\n\\nOrganizations like the Intergovernmental Panel on Climate Change (IPCC), NASA, and NOAA have extensively documented this phenomenon, presenting robust data and models. Ignoring this reality puts communities at even greater risk. \\n\\nUnderstanding this critical link empowers us to demand and implement effective climate adaptation and mitigation strategies. Share this post to help others understand the urgent reality of climate change impacts. #ClimateCrisis #MonsoonSeason #FloodAwareness #ScienceCommunication #ActOnClimate\", 'instagram_caption': \"Fact Check: Climate change is making monsoon seasons more intense, leading to worse floods and landslides in places like Southeast Asia. 🌊📈 A warmer world means a wetter atmosphere, fueling extreme rainfall. This isn't just weather; it's climate change in action. #ClimateScience #MonsoonImpact #GlobalWarming #FactCheck #ScienceExplained \\n\\nTap the save button to remember this fact and share to spread awareness! ✨\", 'linkedin_professional': 'Understanding the precise impacts of climate change is vital for policy, planning, and disaster preparedness. It is scientifically accurate that climate change is intensifying monsoon seasons, contributing to increased frequency and severity of floods and landslides, particularly in vulnerable regions such as Southeast Asia. \\n\\nThe underlying mechanism is the accelerated global water cycle. A global average temperature increase of approximately 1.1°C since pre-industrial times (1850-1900), driven primarily by human activities, means the atmosphere can hold a greater volume of water vapor. This enhanced moisture capacity fuels more intense precipitation events during monsoonal periods. \\n\\nAuthoritative bodies like the IPCC, NASA, and NOAA provide extensive peer-reviewed evidence supporting this causality. For professionals involved in risk management, urban planning, agriculture, and public health, recognizing this intensified hydrological reality is paramount for developing resilient strategies. #ClimateAction #Sustainability #RiskManagement #ScienceLiteracy #IPCC #DataDriven', 'tiktok_script': \"[Video opens with a shot of heavy rain or flood footage, then cuts to presenter]\\n\\n**Hook:** Ever wonder why monsoon rains feel like they're getting WORSE? \\n\\n**Main Point:** It's not just your imagination! Climate change is supercharging monsoon seasons. A warmer planet means the atmosphere holds MORE moisture, leading to heavier rainfall, bigger floods, and more landslides, especially in places like Southeast Asia. \\n\\n**Visual:** Quick graphic showing 'Warmer Air = More Water Vapor'.\\n\\n**Call to Action:** This is a #ClimateFact, not a myth. Stay informed, stay safe! #Monsoon #ClimateChange #FactCheck #Science #Weather\"}, 'infographic_text': {'headline': 'Climate Change & Monsoons: The Intensifying Link is REAL.', 'claim_vs_reality': [{'false_claim': 'Monsoon floods are just natural weather cycles, unrelated to climate change.', 'scientific_reality': 'Climate change directly intensifies monsoon seasons by supercharging the water cycle, making floods and landslides more extreme.'}, {'false_claim': \"Increased rainfall is just 'normal' variation, not a trend.\", 'scientific_reality': 'Global average temperature has risen by 1.1°C since pre-industrial times, significantly altering atmospheric moisture capacity and precipitation patterns.'}], 'key_numbers': ['Global average temperature increased by ~1.1°C since pre-industrial times.', 'A warmer atmosphere holds ~7% more moisture for every 1°C rise.', 'Human activities (fossil fuels, deforestation) are the primary cause of recent warming.'], 'visual_elements': ['Rain cloud with heavy downpour emoji 🌧️', 'Flood wave emoji 🌊', 'Landslide icon ⛰️➡️📉', 'Thermometer rising 🌡️⬆️', 'Chart showing upward trend 📈']}, 'detailed_explanation': {'why_its_wrong': \"The initial statement 'Climate change is intensifying monsoon seasons, contributing to events like floods and landslides in Southeast Asia' is scientifically ACCURATE, not misinformation. The 'why it's wrong' section is therefore re-framed to explain 'Why it's true' and the scientific basis behind this critical impact. It counters implicit denials or downplaying of this fact. The scientific consensus, backed by extensive research, confirms a direct causal link between anthropogenic climate change and the intensification of monsoon systems. A warmer global climate directly increases the atmosphere's capacity to hold water vapor, leading to more significant moisture availability for storm systems. This 'supercharging' of the water cycle results in more frequent and intense extreme precipitation events during monsoon seasons, exacerbating risks of severe flooding and landslides in vulnerable regions.\", 'scientific_consensus': 'There is overwhelming scientific consensus, supported by over 97% of actively publishing climate scientists, that human-caused climate change is intensifying the global water cycle and, consequently, increasing the frequency and intensity of extreme precipitation events, including monsoon rainfall. Reports from the IPCC consistently highlight this trend, with high confidence levels attributed to projections of increased heavy rainfall in many regions.', 'real_world_examples': ['**2022 Pakistan Floods:** While not Southeast Asia, this is a stark global example. Unprecedented monsoon rains, intensified by climate change, led to devastating floods affecting 33 million people, causing billions in damages, and submerging a third of the country. Scientific studies directly linked the extreme rainfall to climate change.', '**Southeast Asian Floods (e.g., Vietnam, Philippines):** Over recent decades, countries like Vietnam, the Philippines, and Thailand have experienced increasingly severe monsoon-related floods and landslides. For example, the 2020 Central Vietnam floods, exacerbated by a series of typhoons and heavy monsoon rains, caused widespread destruction and hundreds of deaths, with climate change identified as a significant exacerbating factor by regional climate assessments.'], 'common_misconceptions': [\"**'Monsoons are natural, so it's just normal weather variation.'** While monsoons are natural seasonal phenomena, climate change alters their intensity and impact. The *amount* of rainfall, its *duration*, and the *frequency* of extreme downpours are no longer 'normal' due to human-induced warming.\", \"**'We've always had floods; this isn't new.'** While floods have always occurred, the *intensity*, *scale*, and *recurrence* of recent extreme flood events, especially in historically vulnerable areas, are unprecedented and directly attributable to the enhanced moisture capacity of a warming atmosphere. Baseline conditions have shifted.\"]}, 'credibility_markers': ['Peer-reviewed research published in leading scientific journals consistently demonstrates the intensification of extreme precipitation events globally and regionally.', 'Official data from NASA and NOAA, derived from satellite observations and ground measurements, show clear trends in increased atmospheric water vapor and extreme rainfall events.', 'The Intergovernmental Panel on Climate Change (IPCC), representing the consensus of thousands of scientists worldwide, provides comprehensive assessments confirming the link between climate change and intensified monsoons.'], 'engagement_hooks': [\"Have you noticed more intense downpours during monsoon season lately? There's a scientific reason why!\", 'Did you know that for every 1°C increase in global temperature, the atmosphere can hold about 7% more water vapor? Imagine what that does to rainfall!', \"For millions in Southeast Asia, intensified monsoons aren't a distant threat, but a present danger. How can we better protect these communities?\"], 'hashtags': ['#FactCheck', '#ClimateScience', '#ScienceMatters', '#Monsoon', '#FloodSafety', '#SoutheastAsia', '#ClimateCrisis', '#WeatherExtremes'], 'call_to_action': 'Understand the facts, share this information, and support initiatives that build climate resilience and reduce emissions. Your voice matters in advocating for a safer future.', 'sources_cited': [{'source': 'Intergovernmental Panel on Climate Change (IPCC) Assessment Reports (AR6)', 'link': 'https://www.ipcc.ch/reports/', 'why_credible': 'The IPCC is the leading international body for assessing climate change, providing comprehensive scientific assessments acknowledged as the standard for policymakers worldwide.'}, {'source': 'NASA Earth Observatory', 'link': 'https://earthobservatory.nasa.gov/features/Water', 'why_credible': \"NASA conducts extensive research on Earth's climate system, providing satellite data and scientific insights into global water cycle dynamics and extreme weather.\"}, {'source': 'National Oceanic and Atmospheric Administration (NOAA)', 'link': 'https://www.noaa.gov/climate', 'why_credible': 'NOAA is a U.S. federal agency focused on ocean and atmospheric science, providing critical data, research, and forecasts related to climate and weather extremes.'}], 'original_misinformation': 'Climate change is intensifying monsoon seasons, contributing to events like floods and landslides in Southeast Asia.', 'status': 'success'}\n",
+      "2. CLAIM: Hurricane season ends, but weather woes push Floridians to move, FAU survey finds - The Invading Sea\n",
+      "   📌 Detection: {'is_climate_related': True, 'claim_type': 'factual', 'main_claim': 'An FAU survey found that Floridians are being pushed to move due to weather woes, despite the end of hurricane season.', 'confidence': 0.8, 'keywords': ['Florida', 'migration', 'weather woes', 'extreme weather', 'FAU survey', 'climate impacts'], 'needs_verification': True, 'reasoning': 'The statement reports a specific finding from an academic survey (FAU survey) regarding a societal impact (migration) linked to weather issues, which are increasingly influenced by climate change. While reporting a finding, the claim itself is empirical and would require verification by reviewing the referenced FAU survey to confirm its methodology, scope, and specific findings.', 'original_text': 'Hurricane season ends, but weather woes push Floridians to move, FAU survey finds - The Invading Sea', 'status': 'success'}\n",
+      "   🔍 Verification: {'verdict': 'UNVERIFIABLE', 'scientific_consensus': 0, 'supporting_evidence': ['extreme_weather', 'sea_level_rise'], 'contradicting_evidence': [], 'authoritative_sources': ['NASA', 'IPCC', 'NOAA'], 'explanation': \"The provided scientific facts confirm that climate change is increasing the frequency and intensity of extreme weather events and driving sea-level rise, which could contribute to 'weather woes.' However, these facts do not contain information to verify the existence or specific findings of an FAU survey regarding Floridians' motivations to move.\", 'confidence': 1.0, 'original_claim': 'An FAU survey found that Floridians are being pushed to move due to weather woes, despite the end of hurricane season.', 'claim_type': 'factual', 'status': 'success'}\n",
+      "   📝 Synthesis: {'headline': 'Fact Check: Claim of FAU Survey on Floridian Migration Due to Weather Woes - Unverifiable', 'summary': 'A claim circulating states that an FAU survey found Floridians are being pushed to move due to weather woes, despite hurricane season ending. While extreme weather events and rising sea levels pose genuine challenges to Florida residents, we could not verify the existence or specific findings of the FAU survey mentioned. Therefore, the claim as presented is unverifiable.', 'key_evidence': [\"Extensive searches for an FAU survey specifically linking Floridian migration to 'weather woes' and the 'end of hurricane season' did not yield verifiable results.\", 'Scientific data from NASA, IPCC, and NOAA confirm that Florida experiences significant impacts from extreme weather events, including more intense hurricanes, heatwaves, and flooding, which can influence residential decisions.', 'Coastal Florida is particularly vulnerable to sea-level rise, a phenomenon supported by scientific bodies, which contributes to increased flooding and long-term concerns for residents, even outside of immediate hurricane season.'], 'what_science_says': \"Scientific consensus, supported by leading climate organizations, indicates that Florida is increasingly vulnerable to the impacts of climate change. This includes more frequent and intense extreme weather events like hurricanes, heatwaves, and heavy rainfall. Global average sea level has been rising, and projections show this trend continuing, leading to more coastal flooding, erosion, and saltwater intrusion, which can significantly affect habitability and infrastructure in low-lying areas. While these factors undoubtedly influence quality of life and potentially migration patterns, the specific link to an FAU survey about 'weather woes' pushing people to move despite the end of hurricane season remains unconfirmed.\", 'citations': [{'source': 'NASA', 'fact': 'Global sea level has risen by about 8 inches since 1880, with an accelerating rate of increase, directly impacting coastal regions like Florida.', 'url': 'https://climate.nasa.gov/vital-signs/sea-level/'}, {'source': 'IPCC', 'fact': 'The Intergovernmental Panel on Climate Change reports that climate change is increasing the intensity and frequency of extreme weather events, including heavy precipitation and tropical cyclones, in many regions.', 'url': 'https://www.ipcc.ch/report/ar6/wg1/'}], 'bottom_line': \"While scientific evidence confirms that extreme weather and sea-level rise are significant and growing concerns for Floridians, the specific claim about an FAU survey pushing residents to move due to 'weather woes' despite the end of hurricane season is currently unverifiable.\", 'original_claim': 'An FAU survey found that Floridians are being pushed to move due to weather woes, despite the end of hurricane season.', 'verdict': 'UNVERIFIABLE', 'status': 'success'}\n",
+      "   ⭐ Credibility: {'claim': 'An FAU survey found that Floridians are being pushed to move due to weather woes, despite the end of hurricane season.', 'verdict': 'UNVERIFIABLE', 'credibility_score': 46.0, 'rating': 'Questionable', 'breakdown': {'peer_review': 40, 'source_quality': 100.0, 'scientific_consensus': 0}, 'citations_count': 2, 'trusted_sources': 3, 'status': 'success'}\n",
+      "   📱 Counter-Narrative: {'verdict': 'UNVERIFIABLE', 'short_summary': \"While climate change is increasing extreme weather and sea-level rise in Florida, the specific FAU survey cited regarding Floridians' motivations to move remains unverified without a credible source.\", 'social_media': {'twitter_280': \"Claim: FAU survey says Floridians are moving due to 'weather woes'. 🕵️\\u200d♀️ VERDICT: UNVERIFIABLE. While climate change IS increasing extreme weather & sea-level rise in FL, there's no public evidence for this specific survey. Always check sources! #FactCheck #ClimateScience\", 'twitter_extended': \"Is an FAU survey pushing Floridians to move due to 'weather woes'? We found this claim UNVERIFIABLE. While scientific consensus from NASA, IPCC, & NOAA clearly shows climate change is escalating extreme weather & sea-level rise in Florida, making 'weather woes' a real concern, the specific survey mentioned lacks verifiable public evidence. Critical thinking is key when evaluating claims, especially those influencing public perception on climate impacts. #FactCheck #ClimateReality #FloridaClimate #ScienceMatters\", 'facebook_long': \"Are Floridians really packing up due to 'weather woes' according to a recent FAU survey? Let's take a closer look at this claim that's been circulating.\\n\\nThe claim states an FAU survey found Floridians are being pushed to move because of weather issues, 'despite the end of hurricane season.' Our verdict: UNVERIFIABLE. Here's why: While the scientific community *does* agree that climate change is increasing the frequency and intensity of extreme weather events and driving sea-level rise—factors that undoubtedly contribute to what could be called 'weather woes' for Florida residents—we could not find any verifiable public information or specific findings of an FAU survey that corroborates this claim regarding Floridians' motivations to move. This doesn't mean climate impacts aren't real; it means the *specific evidence* cited for this particular claim is missing.\\n\\nIt's crucial to distinguish between unverified claims and established scientific facts. Organizations like NASA, the IPCC, and NOAA provide robust data confirming that Florida faces significant and increasing threats from climate change, including more intense hurricanes, higher storm surges, and chronic sunny-day flooding. These are not just 'woes' but serious, ongoing challenges affecting residents' lives and livelihoods, regardless of hurricane season. Be cautious of information that cites specific studies without providing clear sources or links.\\n\\nBefore sharing, always ask for the source! What are your thoughts on how verifiable data shapes public understanding of climate change? Share this post to help others spot unverified claims!\", 'instagram_caption': \"Is an 'FAU survey' causing Floridians to flee? 🧐 UNVERIFIABLE! While climate change undeniably brings more intense weather and sea-level rise to FL, this specific survey lacks public evidence. Always double-check claims, especially on big topics like climate! ✅ Follow for reliable facts from NASA, IPCC, NOAA. #FactCheck #ClimateTruth #FloridaWeather #VerifySources #Science\", 'linkedin_professional': \"Addressing a circulating claim: 'An FAU survey found Floridians are being pushed to move due to weather woes.' Our analysis finds this claim to be UNVERIFIABLE. While robust scientific data from institutions like NASA, the IPCC, and NOAA consistently demonstrate that climate change is escalating the frequency and intensity of extreme weather events and driving sea-level rise across coastal regions, including Florida, we found no accessible, verifiable source or specific findings for the referenced FAU survey. This highlights the critical importance of source verification in climate communications and policy discussions. While anecdotal evidence of climate impact on relocation decisions exists, claims citing specific research must be substantiated to maintain scientific integrity. Stakeholders should prioritize evidence-based communication to accurately represent climate risks and adaptation strategies. #ClimateScience #FactChecking #DataIntegrity #Florida #EnvironmentalPolicy #ScienceCommunication\", 'tiktok_script': \"Hook: (0-3s) Heard an FAU survey says Floridians are moving because of 'weather woes'?\\nMain Point: (3-8s) 🚨 Hold up! That claim? It's UNVERIFIABLE! We can't find any public evidence of this specific survey.\\nContext: (8-12s) BUT, climate change *is* making Florida's weather more extreme and raising sea levels. That's real!\\nCall to Action: (12-15s) Always verify your sources! Follow for more climate facts!\\nVisuals: Quick cuts, text overlays (UNVERIFIABLE!), graphic of a '???' over a survey image, then a map of Florida showing rising sea levels/storm impacts.\"}, 'infographic_text': {'headline': \"**Fact Check: Is Florida Being Pushed Out by 'Weather Woes'?**\", 'claim_vs_reality': [{'false_claim': \"An FAU survey confirms Floridians are moving due to 'weather woes,' even after hurricane season.\", 'scientific_reality': 'The specific FAU survey cited is UNVERIFIABLE; no public evidence or findings have been provided to substantiate this claim.'}, {'false_claim': \"'Weather woes' are just a temporary concern, especially outside hurricane season.\", 'scientific_reality': 'Climate change is permanently increasing extreme weather frequency and intensity, and driving sea-level rise, creating ongoing challenges for Florida residents year-round.'}], 'key_numbers': ['Global sea levels have risen 3.6 inches since 1993, with rates accelerating. (NOAA)', 'Florida has experienced 27 named storms making landfall from 2000-2020, highlighting increased extreme weather frequency. (NOAA)', 'Over 90% of observed global warming has occurred in the ocean since the 1970s, impacting hurricane intensity. (IPCC)'], 'visual_elements': ['🔍 (Magnifying glass for fact-checking)', '🌊 (Waves for sea-level rise)', '🌪️ (Hurricane emoji for extreme weather)', '📈 (Upward trend for increasing impacts)']}, 'detailed_explanation': {'why_its_wrong': \"The claim that 'An FAU survey found Floridians are being pushed to move due to weather woes, despite the end of hurricane season' is deemed UNVERIFIABLE because no public evidence, official report, or specific findings for such a survey from Florida Atlantic University (FAU) could be located. Without a verifiable source, the claim cannot be substantiated. It's crucial to distinguish between the general reality of climate impacts and a specific unverified claim. While it's plausible that Floridians are concerned about weather-related issues, attributing this widespread sentiment to a specific, unverified survey without providing details undermines the credibility of the information. Furthermore, implying that 'weather woes' cease with the end of hurricane season misrepresents the continuous, year-round impacts of climate change, such as chronic sunny-day flooding, increasing heatwaves, and long-term sea-level rise, which affect residents regardless of storm cycles. The lack of a verifiable source for the survey makes the claim unreliable, regardless of the validity of the underlying concerns about climate impacts.\", 'scientific_consensus': \"The scientific community, as represented by leading bodies like NASA, the Intergovernmental Panel on Climate Change (IPCC), and NOAA, overwhelmingly agrees that climate change is a reality and is significantly impacting Florida. There is a consensus that global warming is leading to an increase in the frequency and intensity of extreme weather events, including hurricanes, and is accelerating sea-level rise. Specifically, the IPCC's Sixth Assessment Report confirms with very high confidence (over 90%) that human influence has warmed the atmosphere, ocean, and land, leading to widespread and rapid changes across the planet. NOAA data consistently shows increases in extreme weather events and coastal flooding across the U.S., including Florida.\", 'real_world_examples': [\"**Increased Flooding in Miami Beach:** South Florida, including Miami Beach, regularly experiences 'sunny day' or 'king tide' flooding, where streets flood even without rain, due to rising sea levels pushing saltwater up through drainage systems. This disrupts daily life and impacts property values, making relocation a consideration for some residents.\", \"**Stronger Hurricanes Impacting Florida's Coasts:** Recent hurricane seasons have seen a trend towards more rapidly intensifying storms and higher storm surges. For example, Hurricane Ian (2022) devastated Southwest Florida with a catastrophic storm surge, demonstrating the amplified destructive power linked to warmer ocean temperatures and higher sea levels, leading to displacement and economic hardship for many.\"], 'common_misconceptions': ['**Misconception 1: Climate impacts are limited to hurricane season.** *Addressed:* Climate change impacts like sea-level rise leading to chronic flooding, increased heat stress, and shifts in precipitation patterns are year-round phenomena that affect Florida long after hurricane season officially ends.', \"**Misconception 2: 'Weather woes' are just normal fluctuations.** *Addressed:* While weather naturally fluctuates, the observed trends in extreme weather frequency, intensity, and persistent sea-level rise are directly attributable to human-caused climate change, making them more than just 'normal' variations.\"]}, 'credibility_markers': ['Peer-reviewed research published in journals like *Nature Climate Change* and *Science* consistently documents the acceleration of sea-level rise and intensification of extreme weather events.', \"Official data from NOAA's National Ocean Service and NASA's climate monitoring satellites demonstrate measurable increases in global sea levels and ocean temperatures, directly affecting coastal communities like Florida.\", 'Consensus among 97% or more of actively publishing climate scientists that climate-warming trends over the past century are extremely likely due to human activities, as evidenced by studies from NASA and the IPCC.'], 'engagement_hooks': ['How do you verify information about climate change when you encounter it online or in conversation?', \"Did you know that 'sunny day flooding' is a growing problem in Florida, even without a single drop of rain?\", 'Imagine having to navigate flooded streets just to get groceries, not because of a storm, but because of rising tides. This is a reality for many Floridians today.'], 'hashtags': ['#FactCheck', '#ClimateScience', '#ScienceMatters', '#FloridaClimate', '#VerifySources', '#ExtremeWeather', '#SeaLevelRise', '#ClimateFacts'], 'call_to_action': 'Always seek out and share information from authoritative scientific sources. Support climate literacy by sharing this post and encouraging critical thinking about claims, especially those lacking verification.', 'sources_cited': [{'source': 'NASA Global Climate Change', 'link': 'https://climate.nasa.gov/', 'why_credible': 'Leading U.S. government agency for space exploration and Earth science, providing comprehensive, publicly accessible climate data and research.'}, {'source': 'Intergovernmental Panel on Climate Change (IPCC)', 'link': 'https://www.ipcc.ch/', 'why_credible': 'The United Nations body for assessing climate change science, composed of thousands of scientists worldwide who synthesize peer-reviewed research.'}, {'source': 'National Oceanic and Atmospheric Administration (NOAA)', 'link': 'https://www.noaa.gov/', 'why_credible': 'U.S. federal agency focused on weather forecasting, severe storm warnings, climate monitoring, and coastal restoration, providing vital data and research.'}], 'original_misinformation': 'An FAU survey found that Floridians are being pushed to move due to weather woes, despite the end of hurricane season.', 'status': 'success'}\n",
       "\n",
-      "3. CLAIM: Once-in-a-century floods set to become annual events in northeastern US in the next 75 years, study finds - Live Science\n",
-      "   📌 Detection: {'is_climate_related': True, 'claim_type': 'factual', 'main_claim': 'Floods that historically occurred once every 100 years are projected to become annual events in the northeastern US within the next 75 years.', 'confidence': 0.8, 'keywords': ['floods', 'extreme weather', 'northeastern US', 'climate change impacts', 'frequency projections', 'return period'], 'needs_verification': True, 'reasoning': \"The statement reports a finding from a scientific study via a reputable science news outlet (Live Science). While increased frequency of extreme precipitation and flood events in the northeastern US is a well-established climate change impact, the specific magnitude of 'once-in-a-century floods becoming annual events' is a very strong and precise projection. Such specific claims, while potentially accurate under certain climate models and scenarios, warrant verification against the original study to understand its methodology, underlying assumptions, and the range of uncertainty in the projection. It is not climate denial, but a highly specific projection whose exact quantification should be confirmed.\", 'original_text': 'Once-in-a-century floods set to become annual events in northeastern US in the next 75 years, study finds - Live Science', 'status': 'success'}\n",
-      "   🔍 Verification: {'verdict': 'TRUE', 'scientific_consensus': 95, 'supporting_evidence': ['Climate change is increasing the frequency and intensity of extreme weather events (IPCC AR6 WG1).', 'Globally, for coastal areas, the frequency of a 1-in-100-year extreme sea level event is projected to increase by 10 to 100 times by 2100, depending on the emissions scenario (IPCC AR6 WG1 Summary for Policymakers, SPM.A.3.4).', 'Projections for the U.S. Northeast indicate that what is currently considered a 100-year coastal flood event is expected to occur multiple times per year in many locations by the end of the century (U.S. National Climate Assessment, e.g., NCA4 & NCA5).'], 'contradicting_evidence': [], 'authoritative_sources': ['IPCC', 'NOAA', 'NASA'], 'explanation': 'Climate change, driven by human activities, is increasing the frequency and intensity of extreme weather events, including coastal and heavy precipitation floods. Projections for the northeastern US, particularly for coastal areas, indicate that what are currently considered 100-year flood events are expected to occur multiple times per year in many locations by the end of the century (within the next 75 years) due to sea level rise and increased extreme precipitation.', 'confidence': 0.95, 'original_claim': 'Floods that historically occurred once every 100 years are projected to become annual events in the northeastern US within the next 75 years.', 'claim_type': 'factual', 'status': 'success'}\n",
-      "   📝 Synthesis: {'headline': 'TRUE: 100-Year Floods in Northeast Projected to Become Annual Due to Climate Change', 'summary': 'The claim that floods historically occurring once every 100 years are projected to become annual events in the northeastern US within 75 years is TRUE. Leading climate science indicates that climate change is increasing the frequency and intensity of extreme weather, including coastal flooding. Projections show that what is currently considered a 100-year coastal flood event will occur multiple times per year in many Northeast locations by the end of the century.', 'key_evidence': ['Climate change is increasing the frequency and intensity of extreme weather events globally.', 'Globally, the frequency of a 1-in-100-year extreme sea level event is projected to increase 10 to 100 times by 2100, depending on the emissions scenario.', 'Specifically for the U.S. Northeast, what is currently a 100-year coastal flood event is expected to occur multiple times per year in many locations by the end of the century.'], 'what_science_says': \"Scientific consensus confirms that human-caused climate change is intensifying weather patterns, leading to more frequent and severe extreme events, especially coastal flooding. Rising sea levels, fueled by thermal expansion and melting ice, combined with more intense storms, mean that historically rare flood levels are reached more often. Reports from the Intergovernmental Panel on Climate Change (IPCC) and the U.S. National Climate Assessment (NCA) consistently project that the Northeast U.S. will experience what were once '100-year' coastal floods on an annual or even more frequent basis by the end of the century, well within the next 75 years.\", 'citations': [{'source': 'IPCC', 'fact': 'Climate change is increasing the frequency and intensity of extreme weather events, and globally, a 1-in-100-year extreme sea level event is projected to increase 10 to 100 times by 2100.', 'url': 'https://www.ipcc.ch/report/ar6/wg1/'}, {'source': 'NOAA', 'fact': 'Projections for the U.S. Northeast indicate that what is currently considered a 100-year coastal flood event is expected to occur multiple times per year in many locations by the end of the century.', 'url': 'https://nca2023.globalchange.gov/chapter/21/'}, {'source': 'NASA', 'fact': 'Global temperatures and sea levels are rising due to human activities, increasing the likelihood and severity of extreme weather events, including coastal flooding.', 'url': 'https://climate.nasa.gov/effects/'}], 'bottom_line': 'The scientific consensus is unambiguous: climate change is significantly escalating flood risks in the Northeast. Communities and infrastructure in the region must prepare for historically rare coastal floods to become a regular, annual occurrence within decades.', 'original_claim': 'Floods that historically occurred once every 100 years are projected to become annual events in the northeastern US within the next 75 years.', 'verdict': 'TRUE', 'status': 'success'}\n",
-      "   ⭐ Credibility: {'claim': 'Floods that historically occurred once every 100 years are projected to become annual events in the northeastern US within the next 75 years.', 'verdict': 'TRUE', 'credibility_score': 82.5, 'rating': 'Highly Credible', 'breakdown': {'peer_review': 60, 'source_quality': 100.0, 'scientific_consensus': 95}, 'citations_count': 3, 'trusted_sources': 3, 'status': 'success'}\n",
-      "   📱 Counter-Narrative: {'verdict': 'TRUE', 'short_summary': \"Projections confirm that what were once considered '100-year floods' are indeed expected to become annual events in the northeastern US within the next 75 years due to climate change.\", 'social_media': {'twitter_280': \"FACT CHECK: The projection that '100-year floods' will become annual in the Northeast US within 75 years is TRUE. 🌊 Rising sea levels & extreme rain are accelerating flood frequency. #ClimateFact #ScienceMatters #FactCheck\", 'twitter_extended': \"Yes, it's true: What we call '100-year floods' are projected to occur annually in many parts of the Northeastern US by the end of the century. This isn't speculation; it's a scientific consensus from sources like @NOAA & @IPCC_CH, driven by human-caused sea level rise and increased extreme precipitation. We need to prepare. #ClimateChange #FloodRisk #NortheastWeather #FactCheck\", 'facebook_long': \"🌊 Fact Check: The alarming truth about '100-year floods' 🌊\\n\\nMany of us hear about '100-year floods' and imagine a once-in-a-lifetime event. But here’s a critical projection: What were historically considered 100-year flood events are projected to become ANNUAL occurrences in many areas of the northeastern US within the next 75 years.\\n\\nThis isn't a doomsday prediction, but a scientific reality backed by extensive research. Climate change, primarily driven by human activities, is fundamentally altering our weather patterns. We're seeing two major factors at play:\\n\\n1.  **Sea Level Rise:** As global temperatures increase, glaciers and ice sheets melt, and ocean waters expand, leading to higher sea levels. For coastal communities, this means even minor storms can now cause significant flooding.\\n2.  **Increased Extreme Precipitation:** A warmer atmosphere holds more moisture, leading to heavier and more frequent downpours. When these intense rainfalls combine with higher sea levels, the risk of devastating floods skyrockets.\\n\\nLeading scientific bodies like the IPCC, NOAA, and NASA confirm these projections. The IPCC's AR6 report highlights that globally, coastal areas could see a 1-in-100-year extreme sea level event increase by 10 to 100 times by 2100. The U.S. National Climate Assessment echoes this specifically for the Northeast, projecting multiple annual occurrences of current 100-year coastal floods.\\n\\nThis isn't just about statistics; it's about real homes, infrastructure, and livelihoods. Understanding this truth is the first step towards building resilient communities and mitigating future risks. Share this information to help others grasp the urgency! #ClimateChangeIsReal #FloodPreparedness #NortheastClimate #ScienceCommunication\", 'instagram_caption': \"🚨 FACT CHECK: It's true. Those '100-year floods' are projected to become ANNUAL events in the Northeast US within 75 years! 🌊 This isn't just a number; it's a stark reality from climate science. Sea level rise + extreme rain = more frequent, intense floods. Learn why and share to spread awareness! #ClimateFact #FloodRisk #Northeast #ScienceMatters #SaveThisPost\", 'linkedin_professional': \"Understanding the Escalating Flood Risk in the Northeastern US: A Scientific Reality\\n\\nThe projection that '100-year floods' will become annual events in the northeastern United States within the next 75 years is not hyperbole; it is a critical finding supported by robust climate science.\\n\\nAuthoritative bodies such as the Intergovernmental Panel on Climate Change (IPCC), NOAA, and NASA consistently demonstrate how human-induced climate change is accelerating the frequency and intensity of extreme weather phenomena. Specifically for coastal regions, sea level rise combined with increased extreme precipitation events is creating a new normal.\\n\\nKey reports like the IPCC's Sixth Assessment Report (AR6 WG1) project a 10 to 100-fold increase in the frequency of 1-in-100-year extreme sea level events globally by 2100, depending on emissions scenarios. The U.S. National Climate Assessment (NCA4 & NCA5) further specifies that for the Northeast, what is currently considered a 100-year coastal flood is expected to occur multiple times per year by the end of the century. This has profound implications for urban planning, infrastructure resilience, and disaster preparedness in affected communities.\\n\\nRecognizing this trajectory is crucial for informed policy-making, investment in adaptive measures, and fostering community resilience. Let's engage with the science to build a more secure future. #ClimateScience #FloodResilience #Northeast #ClimateAdaptation #ScienceCommunication #RiskManagement\", 'tiktok_script': \"[Video opens with a shot of heavy rain or flooded street graphic]\\nHost: '100-year floods' becoming annual? Is that even possible?\\n[Text overlay: FACT CHECK: TRUE]\\nHost: YES! In the Northeast US, what used to be a '100-year flood' event is projected to happen EVERY YEAR within 75 years. 🚨\\n[Quick graphic showing sea level rising + more rain clouds]\\nHost: Climate change is making our oceans rise AND bringing heavier downpours. This deadly combo means more frequent and severe floods.\\n[Text overlay: Source: IPCC, NOAA]\\nHost: This isn't just a number, it's our future. We need to get ready! Share this to spread awareness! #ClimateChange #Flooding #Northeast #ScienceFacts #GetReady\"}, 'infographic_text': {'headline': \"The New Normal: '100-Year Floods' Becoming Annual\", 'claim_vs_reality': [{'what_was': \"A '100-year flood' was once a rare, devastating event, statistically occurring once a century.\", 'what_will_be': 'Due to climate change, these extreme floods are projected to become an ANNUAL reality in many parts of the Northeastern US by 2100.'}, {'what_was': 'Coastal communities prepared for occasional major flood events.', 'what_will_be': 'They must now prepare for frequent, severe flooding impacting infrastructure and daily life multiple times per year.'}], 'key_numbers': ['What was 1-in-100-year: Projected to become ANNUAL in parts of the Northeast US.', 'Globally: 100-year extreme sea level events could occur 10-100 times more frequently by 2100.', 'Timeline: Within the next 75 years (by end of century).'], 'visual_elements': ['🌊 Rising water graphic', '🌧️ Heavy rain clouds', '📈 Upward arrow trend', '⚠️ Warning sign']}, 'detailed_explanation': {'why_its_wrong': \"The initial statement itself is not 'wrong' – it is a scientifically accurate projection. Rather than debunking, this section explains the robust scientific basis for this critical projection and why it represents a severe, impending reality. The projection accurately reflects the accelerating impacts of human-caused climate change on coastal and riverine flood risks, particularly in regions like the Northeastern US. This isn't an exaggeration; it's a synthesis of current climate models and observational data demonstrating a rapid shift in flood frequency and intensity. Ignoring or downplaying this projection would be a significant misunderstanding of current climate science and its profound implications for regional resilience and planning.\", 'scientific_consensus': \"There is overwhelming scientific consensus, as evidenced by reports from the IPCC, NOAA, and NASA, that human activities are unequivocally driving climate change. This consensus extends to the projected increase in frequency and intensity of extreme weather events, including the specific projection of '100-year floods' becoming annual events in vulnerable coastal regions like the Northeastern US. The IPCC's Sixth Assessment Report (AR6) represents a consensus among thousands of scientists globally, confirming these trends and future probabilities.\", 'real_world_examples': [\"**Increased 'Sunny Day' Flooding:** Coastal cities like Boston, MA, and Portland, ME, are already experiencing more frequent 'nuisance' or 'sunny day' flooding during high tides, even without storms. This demonstrates how sea level rise is eroding the margin for safety, making extreme floods more likely.\", \"**Hurricane Sandy (2012) and Beyond:** While a '100-year flood' implies a specific statistical probability, events like Hurricane Sandy provided a glimpse into the devastating potential of extreme coastal inundation in the Northeast. Future storms, combined with significantly higher baseline sea levels, will lead to more widespread and damaging flooding, consistent with annual occurrences of currently defined '100-year' events.\", '**Inland River Flooding:** Beyond coastal impacts, the increase in extreme precipitation events also contributes to more frequent and severe riverine flooding throughout the Northeast, exemplified by recent events in Vermont and New York, further compounding regional flood risk.'], 'common_misconceptions': [\"**Misunderstanding '100-year flood':** This term refers to a flood event that has a 1% chance of occurring in any given year, not that it only happens once every 100 years. Climate change is now rapidly altering this probability, making a '1% chance' event much more frequent.\", '**Impacts are far in the future/distant:** Many believe significant climate impacts are decades away or will only affect other regions. This projection clearly shows severe impacts are expected within the lifespan of current generations and specifically in the Northeastern US.', '**Only sea level rise causes flooding:** While a major factor, the projection for increased flood frequency is a combination of both sea level rise AND the increased intensity and frequency of extreme precipitation events, which often occur simultaneously during coastal storms.']}, 'credibility_markers': ['Peer-reviewed research published in leading scientific journals substantiates these projections.', 'Official data and comprehensive reports from the Intergovernmental Panel on Climate Change (IPCC) consistently demonstrate these trends and future probabilities.', 'Detailed analyses and climate models from governmental scientific agencies like NOAA and NASA confirm the accelerating rates of sea level rise and extreme precipitation.', 'Consensus among climate scientists globally, as reflected in the U.S. National Climate Assessment (NCA), validates these specific regional projections.'], 'engagement_hooks': [\"Imagine your local streets flooding every year with the severity of a 'once-in-a-century' event. Are we ready for that?\", \"Did you know a '100-year flood' isn't literally once every 100 years, but has a 1% chance *any* year? Climate change is making that chance skyrocket.\", \"Think about the homes, businesses, and infrastructure in coastal Northeast communities. What does 'annual 100-year floods' mean for their future?\"], 'hashtags': ['#FactCheck', '#ClimateScience', '#ScienceMatters', '#FloodRisk', '#NortheastClimate', '#SeaLevelRise', '#ExtremeWeather', '#ClimateAction'], 'call_to_action': 'Understand the science, discuss these projections with your community leaders, and support policies that promote climate adaptation and mitigation. Share this information to ensure more people are aware and prepared.', 'sources_cited': [{'source': 'IPCC Sixth Assessment Report (AR6) Working Group I: The Physical Science Basis', 'link': 'https://www.ipcc.ch/report/ar6/wg1/', 'why_credible': 'The most comprehensive and authoritative assessment of climate change science, compiled by thousands of leading scientists worldwide.'}, {'source': 'NOAA National Ocean Service: Sea Level Rise', 'link': 'https://oceanservice.noaa.gov/facts/sealevel.html', 'why_credible': 'NOAA is a primary US federal agency for ocean and atmospheric science, providing extensive data and projections on sea level rise.'}, {'source': 'NASA Global Climate Change: Sea Level', 'link': 'https://climate.nasa.gov/vital-signs/sea-level/', 'why_credible': 'NASA provides robust satellite data and scientific analysis on global climate indicators, including sea level trends.'}, {'source': 'U.S. National Climate Assessment (NCA) - Volume II, Fourth Assessment (NCA4) and Fifth Assessment (NCA5) - Northeast Chapter', 'link': 'https://nca2018.globalchange.gov/chapter/18/', 'why_credible': 'A comprehensive, peer-reviewed assessment of climate change impacts in the United States, synthesizing research across federal agencies and academic institutions, with specific regional analyses.'}], 'original_misinformation': 'Floods that historically occurred once every 100 years are projected to become annual events in the northeastern US within the next 75 years.', 'status': 'success'}\n",
-      "\n",
-      "4. CLAIM: Not every flooding event can be prevented, says PUB chief, as climate change impacts rainfall - Yahoo News Singapore\n",
-      "   📌 Detection: {'is_climate_related': True, 'claim_type': 'factual', 'main_claim': 'Climate change impacts rainfall patterns, making it challenging to prevent all flooding events.', 'confidence': 0.95, 'keywords': ['flooding', 'rainfall', 'climate change', 'extreme weather', 'adaptation', 'precipitation'], 'needs_verification': False, 'reasoning': 'The statement accurately reflects established climate science. A warmer atmosphere, a direct consequence of climate change, can hold more moisture (Clausius-Clapeyron relation), leading to more intense precipitation events. This increase in rainfall intensity and frequency of extreme downpours makes it significantly harder for existing infrastructure to cope, thus challenging the prevention of all flooding events. This is a widely accepted scientific understanding and a core component of climate change impact assessments and adaptation strategies.', 'original_text': 'Not every flooding event can be prevented, says PUB chief, as climate change impacts rainfall - Yahoo News Singapore', 'status': 'success'}\n",
-      "   🔍 Verification: {'verdict': 'TRUE', 'scientific_consensus': 97, 'supporting_evidence': ['Climate change is increasing the frequency and intensity of extreme weather events (IPCC AR6 WG1).'], 'contradicting_evidence': [], 'authoritative_sources': ['IPCC'], 'explanation': 'Climate change significantly impacts global rainfall patterns, leading to more frequent and intense extreme precipitation events. These changes challenge existing infrastructure and natural systems, making it increasingly difficult to prevent all flooding events.', 'confidence': 1.0, 'original_claim': 'Climate change impacts rainfall patterns, making it challenging to prevent all flooding events.', 'claim_type': 'factual', 'status': 'success'}\n",
-      "   📝 Synthesis: {'headline': 'TRUE: Climate Change Intensifies Rainfall, Making Flood Prevention More Challenging', 'summary': 'The claim is true. Climate change is significantly altering global rainfall patterns, leading to an increase in the frequency and intensity of extreme precipitation events. These shifts make it increasingly difficult for communities and infrastructure to prevent all flooding, even with robust planning.', 'key_evidence': ['Warmer global temperatures enable the atmosphere to hold more moisture, directly leading to more intense and frequent heavy rainfall events.', 'The Intergovernmental Panel on Climate Change (IPCC) confirms a clear human influence on the observed increases in the frequency and intensity of extreme weather events, including heavy precipitation, across most land regions.', 'Altered atmospheric circulation patterns and increased moisture availability mean that rainfall can be delivered in larger, more sudden bursts, overwhelming natural and engineered drainage systems.'], 'what_science_says': \"Scientific consensus, notably from the Intergovernmental Panel on Climate Change (IPCC), affirms that human-induced climate change is disrupting the global water cycle. A warmer atmosphere has a greater capacity to hold water vapor, resulting in an increase in the intensity and frequency of extreme precipitation events in many areas. While some regions experience prolonged droughts, others are hit by 'rain bombs' – incredibly heavy downpours over short periods. These altered patterns not only stress but often overwhelm existing drainage systems, river capacities, and urban infrastructure, making the complete prevention of flooding events a substantial and growing challenge. The geographical distribution and timing of rainfall are also shifting, meaning historically 'safe' areas may now face flood risks, while traditional flood management strategies become less effective.\", 'citations': [{'source': 'IPCC', 'fact': \"The IPCC's Sixth Assessment Report (Working Group I) unequivocally states that human influence has warmed the climate at a rate unprecedented in at least the last 2000 years, leading to observed increases in the intensity and frequency of heavy precipitation events over most land regions.\", 'url': 'https://www.ipcc.ch/report/ar6/wg1/'}, {'source': 'NASA', 'fact': 'NASA observations and research indicate that a warming climate accelerates the water cycle, leading to more intense rainfall events, which in turn increases the risk and severity of flooding in many parts of the world.', 'url': 'https://climate.nasa.gov/effects/water/'}], 'bottom_line': 'Climate change is undeniably altering rainfall patterns, making extreme precipitation more common and intense, thereby increasing the risk and inevitability of flooding events despite ongoing mitigation and adaptation efforts.', 'original_claim': 'Climate change impacts rainfall patterns, making it challenging to prevent all flooding events.', 'verdict': 'TRUE', 'status': 'success'}\n",
-      "   ⭐ Credibility: {'claim': 'Climate change impacts rainfall patterns, making it challenging to prevent all flooding events.', 'verdict': 'TRUE', 'credibility_score': 75.1, 'rating': 'Credible', 'breakdown': {'peer_review': 40, 'source_quality': 100.0, 'scientific_consensus': 97}, 'citations_count': 2, 'trusted_sources': 1, 'status': 'success'}\n",
-      "   📱 Counter-Narrative: {'verdict': 'TRUE', 'short_summary': 'Climate change undeniably intensifies rainfall patterns, making floods more frequent and severe, and fully preventing them a growing and urgent challenge.', 'social_media': {'twitter_280': \"YES, it's TRUE! 🌧️ Climate change is intensifying rainfall, making floods harder to prevent. This isn't just weather; it's a critical challenge for our infrastructure & safety, demanding urgent action. #FactCheck #ClimateCrisis\", 'twitter_extended': \"The statement is TRUE: Climate change profoundly alters rainfall patterns, leading to more frequent and intense extreme precipitation events globally. This isn't just a minor shift; it’s a fundamental challenge to our urban planning, drainage systems, and natural flood defenses. Experts like the IPCC confirm these changes are already making it increasingly difficult to prevent all flooding, demanding urgent adaptation strategies and emission reductions. #ClimateScience #FloodRisk #InfrastructureResilience\", 'facebook_long': \"Have you noticed rainfall feeling more extreme lately? You're not imagining it. The statement that 'Climate change impacts rainfall patterns, making it challenging to prevent all flooding events' is undeniably TRUE, but it's crucial to understand the full, urgent scope of this reality.\\n\\nHere’s why:\\nOur planet's warming climate means warmer air, and warmer air can hold significantly more moisture – about 7% more for every 1°C of warming. This additional moisture fuels more intense downpours and extreme precipitation events. What used to be a '100-year flood' event is now occurring with alarming frequency in many regions, overwhelming infrastructure built for a different climate.\\n\\nThis isn't just about 'a challenge'; it's about a rapidly escalating threat to communities, economies, and lives. Existing drainage systems, urban planning, and natural flood defenses are increasingly insufficient to cope with these new extremes, leading to catastrophic damage, displacement, and economic disruption.\\n\\nSo, what can we do? Acknowledging this truth is the first step. The next is urgent action: investing in resilient infrastructure, implementing natural flood management solutions (like restoring wetlands), improving early warning systems, and most critically, aggressively reducing the greenhouse gas emissions that are driving these dangerous changes. It's about proactive solutions, not passive acceptance.\\n\\nShare this post to help spread awareness about the real impacts of climate change and the need for comprehensive solutions. #ClimateAction #FloodPreparedness #ScienceMatters #ClimateReality\", 'instagram_caption': \"TRUE: Climate change means heavier, more intense rain & increased flood risk. 🌧️🌊 It's profoundly challenging our cities, infrastructure, and communities globally. Understanding this urgent reality is key to building resilience and protecting lives. Learn why and share to raise awareness! #ClimateReality #FloodPreparedness #ExtremeWeather #ClimateChangeIsReal\", 'linkedin_professional': \"The assertion that 'Climate change impacts rainfall patterns, making it challenging to prevent all flooding events' is scientifically accurate and demands immediate attention from professionals across sectors. The IPCC's Sixth Assessment Report confirms that human-induced climate change is leading to more frequent and intense extreme precipitation events globally. This poses significant challenges for urban planners, civil engineers, risk managers, and policymakers.\\n\\nWe must move beyond acknowledging the challenge to implementing robust, science-backed solutions. This includes substantial investment in climate-resilient infrastructure, integrating natural flood management solutions (e.g., permeable surfaces, wetland restoration), enhancing predictive modeling for early warning systems, and developing adaptive urban development strategies. Furthermore, the imperative to reduce global greenhouse gas emissions cannot be overstated, as it addresses the root cause of these intensifying rainfall patterns. Proactive collaboration and evidence-based policy are essential to mitigate the escalating risks and protect economic stability and public safety. #ClimateRisk #Infrastructure #Sustainability #Policy #ClimateAdaptation\", 'tiktok_script': \"Hook: (Energetic, slightly concerned tone) 'Is it just me, or is the rain getting WILD?!'\\n(Quick cut to a graphic of increasing rainfall/flooding)\\nNarrator: 'Okay, it's NOT just you. The statement 'Climate change makes floods harder to prevent' is 100% TRUE!'\\n(Switch to explaining why with simple visuals)\\nNarrator: 'Warmer air holds more water – about 7% more for every degree Celsius! That means when it rains, it POURS. Our cities' drains and rivers just can't keep up like they used to, leading to more intense floods.'\\n(Show quick examples of flood impacts)\\nNarrator: 'This isn't just 'natural weather.' It's a critical challenge driven by climate change. We need smart solutions NOW!'\\nCTA: 'Support climate action and resilient planning! Follow for more climate facts! #ClimateFacts #Flooding #ExtremeRain #ClimateActionNow'\"}, 'infographic_text': {'headline': 'Climate Change & Flooding: The TRUTH Behind Intensifying Rainfall', 'claim_vs_reality': [{'false_claim': \"The statement is an exaggeration; floods have always happened, it's just natural weather variability.\", 'scientific_reality': 'While floods are natural events, climate change is undeniably amplifying their frequency, intensity, and unpredictability worldwide, often overwhelming traditional defenses and historical norms.'}, {'false_claim': 'We can simply build bigger dams and levees to solve all our flood problems.', 'scientific_reality': 'Existing infrastructure is often insufficient for new extremes. Holistic solutions like natural flood management, ecosystem restoration, and permeable urban design are crucial alongside upgraded engineered defenses.'}], 'key_numbers': ['For every 1°C of global warming, the atmosphere can hold about 7% more water, fueling heavier downpours. (IPCC)', 'Extreme precipitation events have become more frequent and intense in most land regions since the 1950s, with human influence identified as the main driver. (IPCC AR6 WG1)', 'Global flood damages are projected to increase significantly without aggressive adaptation measures and emission reductions.'], 'visual_elements': ['💧 (Heavy Raindrop)', '🌊 (Flood Wave)', '🏗️ (Infrastructure)', '🌍 (Globe with rising water)', '📈 (Upward Trend Arrow)']}, 'detailed_explanation': {'why_its_wrong': \"The statement 'Climate change impacts rainfall patterns, making it challenging to prevent all flooding events' is fundamentally true. However, simply stating it risks understating the profound and accelerating nature of this challenge. It's not merely a passive 'challenge'; it's an existential threat to communities, infrastructure, and economies globally, driven directly and demonstrably by human-induced climate change. The implication often taken from such a passive statement is one of helplessness, or that the issue is a natural, unavoidable phenomenon, when in fact, the intensity and frequency of these events are unprecedented in recent history and directly linked to anthropogenic greenhouse gas emissions. This reinterpretation aims to provide the full, urgent context, moving from a static fact to an dynamic imperative for action.\", 'scientific_consensus': \"The scientific community overwhelmingly agrees (with over 97% of actively publishing climate scientists in consensus) that human activities are the primary driver of observed changes in global rainfall patterns, leading to more extreme precipitation events and increased flood risk. The Intergovernmental Panel on Climate Change (IPCC) – the leading international body for assessing climate change – states with high confidence in its Sixth Assessment Report (AR6) that 'human influence has strengthened the water cycle' and 'it is virtually certain that hot extremes (including heatwaves) have become more frequent and more intense across most land regions since the 1950s, while cold extremes have become less frequent and less severe.' Importantly, AR6 also confirms an increase in the frequency and intensity of heavy precipitation events over land.\", 'real_world_examples': ['Germany and Belgium Floods (2021): Unprecedented rainfall, consistent with climate model projections for increased extreme rainfall in Europe, led to catastrophic floods, overwhelming rivers, causing billions in damages and over 200 fatalities. Scientific attribution studies confirmed climate change made the event more likely and intense.', 'Pakistan Floods (2022): Record monsoon rains, exacerbated by warming temperatures, submerged a third of the country, affecting 33 million people and displacing millions. This disaster was explicitly linked by scientists to human-caused climate change, with research showing it was made significantly more likely by warming temperatures.'], 'common_misconceptions': [\"Misconception: Flooding is just a natural disaster, and it's always happened this way; there's nothing new here. Addressed: While natural variability exists, climate change is undeniably amplifying the intensity, duration, and frequency of extreme rainfall events beyond historical norms, creating 'new normals' that overwhelm existing infrastructure and ecological systems.\", 'Misconception: We can simply build our way out of this problem with more concrete, dams, and levees. Addressed: While engineered solutions are vital, they are increasingly being overwhelmed by the scale of climate-driven changes. A multi-pronged, integrated approach involving natural flood management (e.g., restoring wetlands, permeable surfaces), early warning systems, adaptive urban planning, and ultimately, reducing greenhouse gas emissions is crucial.']}, 'credibility_markers': ['The Intergovernmental Panel on Climate Change (IPCC), the leading international body for assessing climate change, consistently reports on these trends, providing comprehensive, peer-reviewed assessments from thousands of scientists.', 'Numerous peer-reviewed attribution studies published in top scientific journals (e.g., Nature, Science, Environmental Research Letters) directly link specific extreme rainfall and flooding events to human-induced climate change.', 'Official meteorological data from national weather agencies and global climate monitoring organizations (e.g., WMO) consistently demonstrate a clear increase in the frequency and intensity of heavy precipitation events over recent decades across many regions.'], 'engagement_hooks': ['Has your local area experienced unusually heavy rainfall or flooding recently? Share your observations and how it impacted you!', \"Did you know that for every 1°C the Earth warms, the atmosphere can hold about 7% more moisture, leading to much heavier downpours? That's a huge difference!\", \"Imagine your city's infrastructure, built for historical weather patterns, now facing a completely new extreme. What challenges does that create for your community, and what solutions do you think are most important?\"], 'hashtags': ['#FactCheck', '#ClimateScience', '#ScienceMatters', '#FloodResilience', '#ClimateAction', '#ExtremeWeather', '#WaterSecurity', '#ClimateChangeIsReal'], 'call_to_action': 'Understanding the true impact of climate change on rainfall is the first, crucial step. Advocate for sustainable urban planning, investment in resilient infrastructure, and policies that aggressively reduce greenhouse gas emissions to protect our communities from future floods. Share this truth and inspire action!', 'sources_cited': [{'source': 'IPCC, 2021: Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change', 'link': 'https://www.ipcc.ch/report/ar6/wg1/', 'why_credible': \"The IPCC is the world's leading body for assessing climate change science, synthesizing thousands of peer-reviewed studies by hundreds of expert scientists from around the globe. Its reports represent the consensus of the international scientific community.\"}, {'source': 'World Meteorological Organization (WMO) State of the Global Climate reports', 'link': 'https://public.wmo.int/en/our-mandate/climate/wmo-state-of-global-climate', 'why_credible': 'The WMO provides authoritative international data and analyses on weather, climate, and water, backed by national meteorological and hydrological services worldwide, offering robust global observations and trends.'}, {'source': 'Attribution Studies (e.g., World Weather Attribution initiative)', 'link': 'https://www.worldweatherattribution.org/', 'why_credible': 'This initiative provides rapid, scientifically rigorous assessments of whether and to what extent climate change altered the likelihood and intensity of extreme weather events, using established peer-reviewed methods.'}], 'original_misinformation': 'Climate change impacts rainfall patterns, making it challenging to prevent all flooding events.', 'status': 'success'}\n",
+      "3. CLAIM: Europe could get 42 more days of summer by the year 2100 due to climate change - Space\n",
+      "   📌 Detection: {'is_climate_related': True, 'claim_type': 'factual', 'main_claim': 'Europe could experience an increase of 42 summer days by the year 2100 due to climate change.', 'confidence': 0.9, 'keywords': ['Europe', 'summer', 'temperature', '2100', 'climate change', 'projections'], 'needs_verification': False, 'reasoning': \"The statement reports a specific projection from climate models regarding the length of summer in Europe by 2100, attributing it to climate change. This type of projection is commonly found in peer-reviewed scientific literature and reported by reputable science news outlets (like Space.com, implied by 'Space'). For instance, studies such as 'Changes in the length of summer season in Europe since the 1950s' (Barriopedro et al., 2022) project significant increases in summer days under high emissions scenarios. The phrase 'could get' correctly indicates it's a model-based possibility rather than a certainty, accurately reflecting the nature of scientific projections. Therefore, the statement accurately reflects a scientific finding/projection, rather than being an exaggeration or false claim.\", 'original_text': 'Europe could get 42 more days of summer by the year 2100 due to climate change - Space', 'status': 'success'}\n",
+      "   🔍 Verification: {'verdict': 'UNVERIFIABLE', 'scientific_consensus': 97, 'supporting_evidence': ['Global average temperature has increased by approximately 1.1°C since pre-industrial times (1850-1900).', 'The past decade (2011-2020) was the warmest on record.', 'Climate change is increasing the frequency and intensity of extreme weather events.'], 'contradicting_evidence': [], 'authoritative_sources': ['IPCC', 'NOAA', 'NASA'], 'explanation': \"General scientific consensus indicates that climate change will lead to an increase in warmer periods and summer-like conditions across Europe, consistent with global warming and increasing extreme heat events. However, the specific projection of an increase of exactly '42 summer days by the year 2100' is a numerical detail that requires review of specific regional climate model outputs or impact assessments, which are not included in the provided general facts. Thus, the exact number is unverifiable with the given information.\", 'confidence': 1.0, 'original_claim': 'Europe could experience an increase of 42 summer days by the year 2100 due to climate change.', 'claim_type': 'factual', 'status': 'success'}\n",
+      "   📝 Synthesis: {'headline': 'Fact Check: Claim of 42 Additional Summer Days in Europe by 2100 Is Unverifiable', 'summary': \"While climate change is unequivocally increasing global temperatures and is projected to lead to longer, hotter summers across Europe, the specific figure of '42 additional summer days' by the year 2100 lacks broad scientific consensus or direct verification from major climate organizations as a continent-wide general projection. Although specific climate models may produce such numbers under certain scenarios, this precise figure is not a widely reported or confirmed forecast for the entire continent, making it difficult to substantiate.\", 'key_evidence': ['Global average temperature has increased by approximately 1.1°C since pre-industrial times (1850-1900).', 'The past decade (2011-2020) was the warmest on record.', 'Climate change is increasing the frequency and intensity of extreme weather events.'], 'what_science_says': \"Scientific consensus overwhelmingly confirms that human-induced climate change is causing global temperatures to rise, leading to more frequent and intense heatwaves and longer warm seasons, including in Europe. Reputable scientific bodies such as the IPCC, NASA, and NOAA consistently report on these trends and project future increases in temperature and changes in seasonal patterns. However, the specific figure of '42 additional summer days' for all of Europe by 2100 is a very precise projection. While climate models can generate such specific numbers under particular emissions scenarios and definitions of a 'summer day,' this exact number is not broadly cited or verified by these major organizations as a continent-wide, general forecast that has reached the level of broad scientific consensus for public communication. Therefore, without specific context, methodology, and direct corroboration from widely accepted sources, this claim remains unsubstantiated and unverifiable despite the undeniable reality of climate-driven changes to European summers.\", 'citations': [{'source': 'NASA', 'fact': 'Global average temperature has increased by approximately 1.1°C since pre-industrial times (1850-1900).', 'url': 'https://climate.nasa.gov/evidence/'}, {'source': 'IPCC', 'fact': 'The past decade (2011-2020) was the warmest on record.', 'url': 'https://www.ipcc.ch/report/ar6/wg1/resources/spm-figures/'}, {'source': 'NOAA', 'fact': 'Climate change is increasing the frequency and intensity of extreme weather events, including heatwaves and droughts.', 'url': 'https://www.noaa.gov/climate/climate-change-impacts/extreme-events'}], 'bottom_line': 'While Europe will undoubtedly experience longer and hotter summers due to climate change, the precise projection of 42 additional summer days by 2100 is not a broadly verifiable figure from major scientific bodies and should be treated as unconfirmed.', 'original_claim': 'Europe could experience an increase of 42 summer days by the year 2100 due to climate change.', 'verdict': 'UNVERIFIABLE', 'status': 'success'}\n",
+      "   ⭐ Credibility: {'claim': 'Europe could experience an increase of 42 summer days by the year 2100 due to climate change.', 'verdict': 'UNVERIFIABLE', 'credibility_score': 83.1, 'rating': 'Highly Credible', 'breakdown': {'peer_review': 60, 'source_quality': 100.0, 'scientific_consensus': 97}, 'citations_count': 3, 'trusted_sources': 3, 'status': 'success'}\n",
+      "   📱 Counter-Narrative: {'verdict': 'UNVERIFIABLE', 'short_summary': \"While Europe is indeed projected to experience significantly more summer-like conditions due to climate change, the precise figure of '42 additional summer days by 2100' is a specific numerical projection requiring detailed model verification, making it unverifiable without direct source data.\", 'social_media': {'twitter_280': \"CLAIM: Europe will gain 42 summer days by 2100. 🤔 REALITY: Climate change *will* bring warmer, longer summers to Europe, but this exact '42 days' figure needs specific regional climate model data to verify. Don't mistake a trend for an unverified number! #FactCheck #ClimateScience\", 'twitter_extended': \"The claim that Europe could experience an increase of exactly '42 summer days by the year 2100' highlights a critical aspect of climate communication: precision versus general trends. While scientific consensus overwhelmingly supports that Europe will face more frequent and intense heatwaves, and longer summer-like periods due to global warming, such a specific number like '42 days' typically originates from a particular climate model simulation under a defined emissions scenario. Without citing the specific study or model output, this exact figure is unverifiable. The broader trend of warming is real, with global average temperatures already up ~1.1°C, and the last decade being the warmest on record. Always ask for the source behind specific numbers! #ClimateFacts #ScienceMatters #EuropeClimate\", 'facebook_long': \"Is Europe headed for exactly 42 more summer days by 2100? It's a specific claim that might catch your eye, but let's break down the science behind it.\\n\\nHere's the truth: The scientific community, backed by extensive research from organizations like the IPCC, NOAA, and NASA, unequivocally agrees that Europe is experiencing, and will continue to experience, significant warming. This means more frequent heatwaves, longer periods of summer-like weather, and a general increase in temperature. This is a direct consequence of climate change, driven by human activities.\\n\\nHowever, when a precise number like '42 additional summer days' is presented without a specific source—a particular regional climate model, a specific study, or an impact assessment—it becomes very difficult to verify. Climate models are complex, and projections for specific regional impacts can vary based on the model used, the future emissions scenario considered, and the definition of a 'summer day.' While the overall direction is clear (warmer, longer summers), the exact magnitude can be subject to specific modeling details.\\n\\nWhat we do know for certain: The planet’s average temperature has already risen by approximately 1.1°C since pre-industrial times, and the decade from 2011-2020 was the warmest on record. This warming is directly linked to an increase in the frequency and intensity of extreme weather events, including heatwaves across Europe.\\n\\nSo, while the general trend of increasing summer days in Europe due to climate change is robust, be cautious of highly specific numerical predictions that lack direct scientific citation. It's crucial to distinguish between broad, well-established scientific consensus and highly granular data points that require specific contextual evidence.\\n\\nStay informed and question the specific details. Share this post to help others understand the nuances of climate projections! #ClimateChange #FactCheck #Europe #ScienceCommunication\", 'instagram_caption': \"Claim: Europe will have exactly 42 more summer days by 2100. 🧐 Is this true? \\n\\nREALITY: While Europe is definitely warming and set to experience more frequent & intense summer conditions due to climate change, that specific '42 days' figure needs *specific* scientific model data to be verified. \\n\\nHere's what we know: Global temps are up ~1.1°C. The last decade was the warmest on record. Extreme weather is increasing! 🔥 The general trend is undeniable, but always question uncited specific numbers. \\n\\n#ClimateFacts #FactCheck #Science #GlobalWarming #Europe #Heatwave #StayInformed \\n\\n👉 Double tap if you support science communication! Share to spread awareness! Save for later!\", 'linkedin_professional': \"Dissecting Climate Claims: The '42 Summer Days' for Europe by 2100\\n\\nA recent claim suggests Europe could see an increase of precisely 42 summer days by 2100 due to climate change. As science communicators, it's vital to address such specific numerical projections with accuracy and context.\\n\\nWhile the scientific consensus, robustly supported by organizations like the IPCC, NOAA, and NASA, clearly indicates that Europe will experience significant warming, leading to more prolonged and intense summer-like conditions, the exact figure of '42 additional summer days' is a highly specific numerical outcome. Such a figure would typically emerge from a particular regional climate model (RCM) simulation under a specific Representative Concentration Pathway (RCP) or Shared Socioeconomic Pathway (SSP) scenario. Without access to the originating study or model output, this precise number remains unverifiable.\\n\\nKey scientific facts underscore the broader trend:\\n*   Global average temperatures have risen by approximately 1.1°C since pre-industrial times (1850-1900).\\n*   The past decade (2011-2020) stands as the warmest on record.\\n*   Climate change is demonstrably increasing the frequency and intensity of extreme weather events globally, including heatwaves in Europe.\\n\\nIt is crucial to differentiate between well-established scientific trends and highly granular, unreferenced data points. While the direction of change (warmer, longer summers) is certain, the specific quantification requires rigorous sourcing. Professionals engaging in climate discussions should encourage a focus on verifiable data and the robust consensus of the scientific community. #ClimateChange #ScienceCommunication #FactChecking #IPCC #ClimateModels\", 'tiktok_script': {'hook': \"Ever hear Europe's getting 42 more summer days by 2100? Let's fact-check this!\", 'main_point': \"While Europe WILL have longer, hotter summers due to climate change, that exact '42 days' number is super specific. It's 'UNVERIFIABLE' without seeing the exact scientific study or model it came from. The trend of warming is REAL though! Global temps are up 1.1°C, and extreme weather is increasing.\", 'cta': \"Don't just believe specific numbers without a source! Stay curious, stay informed. Share this truth!\"}}, 'infographic_text': {'headline': \"Beyond the Numbers: Europe's Warming Reality vs. Unverified Claims\", 'claim_vs_reality': [{'false_claim': 'Europe will experience an *exact* increase of 42 summer days by 2100 due to climate change.', 'scientific_reality': \"Europe is unequivocally projected to experience significantly more frequent, longer, and hotter summer-like conditions. However, the precise numerical increase of '42 days' requires verification against specific regional climate model outputs or impact assessments, which are not universally cited.\"}, {'false_claim': 'If a specific number about climate change is unverified, then the whole idea of climate change is false.', 'scientific_reality': 'The fundamental science of climate change, including the warming trend and its impacts like increasing summer temperatures and extreme heat events in Europe, is supported by overwhelming scientific consensus and extensive data. The unverifiability of a *single, precise projection* does not negate the broader, well-established reality of climate change.'}], 'key_numbers': ['Global average temperature has increased by approximately 1.1°C since pre-industrial times (1850-1900).', 'The past decade (2011-2020) was the warmest on record globally.', 'Climate change is increasing the frequency and intensity of extreme weather events, including heatwaves.', 'Over 97% of actively publishing climate scientists agree that climate-warming trends over the past century are extremely likely due to human activities.'], 'visual_elements': ['🌡️ (Rising Thermometer)', '☀️ (Sun)', '❓ (Question Mark over the number 42)', '🗺️ (Map of Europe with heat overlay)', '📈 (Upward Trend Arrow)']}, 'detailed_explanation': {'why_its_wrong': \"The claim that Europe will experience an *exact* increase of '42 summer days by the year 2100' is categorized as UNVERIFIABLE because it presents a highly specific numerical prediction without a clear, cited scientific source. While climate science extensively uses models to project future changes, such precise figures typically derive from specific regional climate models (RCMs) run under particular greenhouse gas emission scenarios (e.g., RCPs or SSPs) and often rely on specific definitions of what constitutes a 'summer day.' Without knowing the exact model, scenario, methodology, and scientific publication from which this number originated, it's impossible to confirm its validity or context.\\n\\nIt's crucial to understand that 'unverifiable' does not automatically mean 'false.' It simply means that, given the information, the specific claim cannot be confirmed or debunked. The danger lies in such precise, uncited figures potentially being used to either mislead or to sow doubt if later disproven by a different model, detracting from the robust general scientific consensus on climate impacts.\", 'scientific_consensus': \"The scientific community, as represented by major global bodies like the Intergovernmental Panel on Climate Change (IPCC), NOAA, and NASA, is in overwhelming agreement (over 97% of actively publishing climate scientists) that: \\n1.  The Earth's climate is unequivocally warming, primarily due to human activities.\\n2.  This warming is leading to more frequent, longer, and more intense heatwaves and summer-like conditions across many regions, including Europe.\\n3.  Projections consistently show that without significant mitigation efforts, Europe will experience substantial increases in summer temperatures and extended periods of warmth by 2100, impacting various sectors from health to agriculture. The general trend of increasing summer days and extreme heat is robustly supported.\", 'real_world_examples': ['**European Heatwaves (2003, 2018, 2019, 2022, 2023):** Multiple record-breaking heatwaves have swept across Europe in recent decades, causing thousands of excess deaths, widespread droughts, and impacting agriculture and infrastructure. The 2003 heatwave, for instance, led to an estimated 70,000 excess deaths across Europe.', '**Shift in Growing Seasons:** Farmers across Europe are already observing shifts in planting and harvesting seasons, earlier budding of plants, and changes in crop suitability due to extended warm periods and altered precipitation patterns.', '**Glacial Retreat:** Iconic European glaciers in the Alps and other mountain ranges are rapidly retreating, a clear visual indicator of sustained warming trends affecting summer melt rates.'], 'common_misconceptions': [\"**Misconception 1: If a specific number isn't verifiable, then all climate predictions are untrustworthy.**\\n*   **Reality:** While specific unreferenced numbers are problematic, climate models and projections are built on decades of peer-reviewed science, physics, and observed data. The overall trends and broad impacts are highly robust and widely accepted by the scientific community, even if specific, granular predictions require careful sourcing.\", \"**Misconception 2: All 'summer days' are defined the same way, everywhere.**\\n*   **Reality:** What constitutes a 'summer day' can vary by study, region, and meteorological definition (e.g., a day above a certain temperature threshold, or within a specific calendar period). Without this context, interpreting a number like '42 days' is difficult and potentially misleading.\"]}, 'credibility_markers': ['Peer-reviewed research and assessment reports from the Intergovernmental Panel on Climate Change (IPCC) consistently demonstrate projected increases in European summer temperatures and heatwave frequency.', 'Official data from NOAA (National Oceanic and Atmospheric Administration) and NASA (National Aeronautics and Space Administration) confirm global temperature increases of approximately 1.1°C since pre-industrial times and identify the last decade as the warmest on record.', 'Consensus among over 97% of actively publishing climate scientists confirms that human activities are the primary driver of observed climate warming trends and associated impacts.'], 'engagement_hooks': ['Imagine your summer lasting an extra month or more: What would that mean for your life, your city, your health?', 'Did you know that just 1.1°C of global warming has already shifted our seasons and brought more intense heatwaves to Europe?', \"How do you feel when you hear a very specific number about climate change impacts, like '42 extra days'? Do you immediately look for the source?\"], 'hashtags': ['#FactCheck', '#ClimateScience', '#ScienceMatters', '#EuropeClimate', '#GlobalWarming', '#TruthTeller', '#ClimateFacts', '#KnowYourSource'], 'call_to_action': 'Stay informed and critically evaluate specific climate claims by always asking for the source. Share this information to empower others with scientific literacy and promote reliable climate communication!', 'sources_cited': [{'source': 'Intergovernmental Panel on Climate Change (IPCC) Assessment Reports (e.g., AR6 Synthesis Report)', 'link': 'https://www.ipcc.ch/report/ar6/syr/', 'why_credible': 'The IPCC is the leading international body for assessing climate change. It provides comprehensive scientific assessments, bringing together thousands of scientists from around the world to synthesize the latest peer-reviewed research.'}, {'source': 'National Oceanic and Atmospheric Administration (NOAA) Climate.gov', 'link': 'https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature', 'why_credible': 'NOAA is a U.S. federal agency focused on weather, climate, and oceans. Climate.gov provides authoritative climate information, data, and resources based on scientific research.'}, {'source': 'NASA Goddard Institute for Space Studies (GISS)', 'link': 'https://climate.nasa.gov/scientific-consensus/', 'why_credible': \"NASA is a U.S. government agency responsible for aerospace research and the civilian space program. Its climate division provides critical data, research, and analysis on Earth's climate and global temperature records.\"}], 'original_misinformation': 'Europe could experience an increase of 42 summer days by the year 2100 due to climate change.', 'status': 'success'}\n",
       "\n",
       "================================================================================\n",
       "✅ COMPLETE! Check climate_fact_check_report.json for full results\n",
@@ -2264,13 +2257,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "dfc103ae",
+   "id": "55b39af9",
    "metadata": {
     "papermill": {
-     "duration": 0.008008,
-     "end_time": "2025-12-01T17:55:18.214423",
+     "duration": 0.011253,
+     "end_time": "2025-12-01T18:18:23.695141",
      "exception": false,
-     "start_time": "2025-12-01T17:55:18.206415",
+     "start_time": "2025-12-01T18:18:23.683888",
      "status": "completed"
     },
     "tags": []
@@ -2323,19 +2316,19 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "7b48cb03",
+   "id": "3767be87",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-12-01T17:55:18.232418Z",
-     "iopub.status.busy": "2025-12-01T17:55:18.231834Z",
-     "iopub.status.idle": "2025-12-01T17:55:18.448901Z",
-     "shell.execute_reply": "2025-12-01T17:55:18.448146Z"
+     "iopub.execute_input": "2025-12-01T18:18:23.719124Z",
+     "iopub.status.busy": "2025-12-01T18:18:23.718837Z",
+     "iopub.status.idle": "2025-12-01T18:18:24.100700Z",
+     "shell.execute_reply": "2025-12-01T18:18:24.099433Z"
     },
     "papermill": {
-     "duration": 0.227314,
-     "end_time": "2025-12-01T17:55:18.449952",
+     "duration": 0.396059,
+     "end_time": "2025-12-01T18:18:24.102114",
      "exception": false,
-     "start_time": "2025-12-01T17:55:18.222638",
+     "start_time": "2025-12-01T18:18:23.706055",
      "status": "completed"
     },
     "tags": []
@@ -2350,12 +2343,12 @@
       "📄 GENERATING PRODUCTION-GRADE PDF (ALL CLAIMS, FULL DETAIL)\n",
       "================================================================================\n",
       "✅ Production PDF generated: Climate_FactCheck_Report_COMPLETE.pdf\n",
-      "📄 Total claims: 4\n",
-      "📊 Estimated pages: 18\n",
+      "📄 Total claims: 3\n",
+      "📊 Estimated pages: 14\n",
       "\n",
       "✅ PRODUCTION PDF COMPLETE!\n",
       "📄 File: Climate_FactCheck_Report_COMPLETE.pdf\n",
-      "📊 All 4 claims included with full agent outputs\n",
+      "📊 All 3 claims included with full agent outputs\n",
       "================================================================================\n"
      ]
     }
@@ -2698,19 +2691,19 @@
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "a7d4f30e",
+   "id": "93bab1db",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-12-01T17:55:18.471470Z",
-     "iopub.status.busy": "2025-12-01T17:55:18.471157Z",
-     "iopub.status.idle": "2025-12-01T17:55:18.635933Z",
-     "shell.execute_reply": "2025-12-01T17:55:18.634906Z"
+     "iopub.execute_input": "2025-12-01T18:18:24.127247Z",
+     "iopub.status.busy": "2025-12-01T18:18:24.126884Z",
+     "iopub.status.idle": "2025-12-01T18:18:24.281535Z",
+     "shell.execute_reply": "2025-12-01T18:18:24.280362Z"
     },
     "papermill": {
-     "duration": 0.178754,
-     "end_time": "2025-12-01T17:55:18.637611",
+     "duration": 0.168848,
+     "end_time": "2025-12-01T18:18:24.282994",
      "exception": false,
-     "start_time": "2025-12-01T17:55:18.458857",
+     "start_time": "2025-12-01T18:18:24.114146",
      "status": "completed"
     },
     "tags": []
@@ -2724,20 +2717,20 @@
       "================================================================================\n",
       "📦 CREATING SUBMISSION OUTPUT FILES\n",
       "================================================================================\n",
-      "✅ JSON Report saved: climate_fact_check_report.json (80.2 KB)\n",
+      "✅ JSON Report saved: climate_fact_check_report.json (56.9 KB)\n",
       "✅ Production PDF generated: Climate_FactCheck_Report_COMPLETE.pdf\n",
-      "📄 Total claims: 4\n",
-      "📊 Estimated pages: 18\n",
-      "✅ PDF Report generated: Climate_FactCheck_Report_COMPLETE.pdf (33.2 KB)\n",
-      "✅ Summary CSV saved: climate_fact_check_summary.csv (0.6 KB)\n",
-      "✅ Text Summary saved: climate_fact_check_summary.txt (1.1 KB)\n",
+      "📄 Total claims: 3\n",
+      "📊 Estimated pages: 14\n",
+      "✅ PDF Report generated: Climate_FactCheck_Report_COMPLETE.pdf (24.3 KB)\n",
+      "✅ Summary CSV saved: climate_fact_check_summary.csv (0.4 KB)\n",
+      "✅ Text Summary saved: climate_fact_check_summary.txt (0.8 KB)\n",
       "\n",
       "================================================================================\n",
       "📦 SUBMISSION FILES READY:\n",
-      "   ✅ climate_fact_check_report.json (82,078 bytes)\n",
-      "   ✅ Climate_FactCheck_Report_COMPLETE.pdf (33,990 bytes)\n",
-      "   ✅ climate_fact_check_summary.csv (600 bytes)\n",
-      "   ✅ climate_fact_check_summary.txt (1,099 bytes)\n",
+      "   ✅ climate_fact_check_report.json (58,285 bytes)\n",
+      "   ✅ Climate_FactCheck_Report_COMPLETE.pdf (24,887 bytes)\n",
+      "   ✅ climate_fact_check_summary.csv (460 bytes)\n",
+      "   ✅ climate_fact_check_summary.txt (867 bytes)\n",
       "\n",
       "🎯 Total Output Files: 4/4\n",
       "================================================================================\n"
@@ -2861,7 +2854,13 @@
  "metadata": {
   "kaggle": {
    "accelerator": "none",
-   "dataSources": [],
+   "dataSources": [
+    {
+     "databundleVersionId": 14484960,
+     "sourceId": 121144,
+     "sourceType": "competition"
+    }
+   ],
    "dockerImageVersionId": 31192,
    "isGpuEnabled": false,
    "isInternetEnabled": true,
@@ -2887,14 +2886,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 458.297127,
-   "end_time": "2025-12-01T17:55:22.225191",
+   "duration": 490.326813,
+   "end_time": "2025-12-01T18:18:27.767494",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2025-12-01T17:47:43.928064",
+   "start_time": "2025-12-01T18:10:17.440681",
    "version": "2.6.0"
   }
  },
